@@ -1,0 +1,1788 @@
+﻿Log file open, 02/19/22 20:02:44
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: Task2
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.625858
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line:  -EpicPortal -epicusername=secondbluff -epicuserid=813a0b1b92e340039d4830b59eccf561 -epiclocale=ru -epicsandboxid=ue
+LogInit: Base Directory: E:/EpicStoreGames/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Unreal Engine/Projects/Task2/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.02.19-17.02.45:993][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.02.19-17.02.45:993][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.02.19-17.02.45:993][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/Unreal Engine/Projects/Task2/Saved/Config/Windows/Engine.ini]
+[2022.02.19-17.02.45:993][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.02.19-17.02.45:993][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/Unreal Engine/Projects/Task2/Saved/Config/Windows/Engine.ini]
+[2022.02.19-17.02.45:993][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Unreal Engine/Projects/Task2/Saved/Config/Windows/Engine.ini]
+[2022.02.19-17.02.45:993][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.02.19-17.02.45:993][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.02.19-17.02.45:993][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.02.19-17.02.45:993][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.02.19-17.02.45:993][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.02.19-17.02.45:993][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.02.19-17.02.45:993][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.02.19-17.02.45:993][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.02.19-17.02.45:993][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.02.19-17.02.45:993][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.02.19-17.02.45:994][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.02.19-17.02.45:994][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.02.19-17.02.45:994][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.02.19-17.02.45:994][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.02.19-17.02.45:994][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/Unreal Engine/Projects/Task2/Saved/Config/Windows/Engine.ini]
+[2022.02.19-17.02.45:994][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.02.19-17.02.45:994][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.02.19-17.02.45:994][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.02.19-17.02.45:994][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.02.19-17.02.45:994][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.02.19-17.02.45:994][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.02.19-17.02.45:994][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.02.19-17.02.45:994][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.02.19-17.02.45:994][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.02.19-17.02.45:994][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.02.19-17.02.45:994][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.02.19-17.02.45:994][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.02.19-17.02.45:994][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.02.19-17.02.45:994][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.02.19-17.02.45:994][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/Unreal Engine/Projects/Task2/Saved/Config/Windows/Engine.ini]
+[2022.02.19-17.02.45:994][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/Unreal Engine/Projects/Task2/Saved/Config/Windows/Engine.ini]
+[2022.02.19-17.02.46:059][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Unreal Engine/Projects/Task2/Saved/Config/Windows/Scalability.ini]
+[2022.02.19-17.02.46:059][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.02.19-17.02.46:060][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.02.19-17.02.46:060][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Unreal Engine/Projects/Task2/Saved/Config/Windows/Scalability.ini]
+[2022.02.19-17.02.46:060][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.02.19-17.02.46:060][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Unreal Engine/Projects/Task2/Saved/Config/Windows/Scalability.ini]
+[2022.02.19-17.02.46:060][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.02.19-17.02.46:060][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.02.19-17.02.46:060][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.02.19-17.02.46:060][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.02.19-17.02.46:060][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.02.19-17.02.46:060][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.02.19-17.02.46:060][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.02.19-17.02.46:060][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.02.19-17.02.46:060][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.02.19-17.02.46:060][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.02.19-17.02.46:060][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.02.19-17.02.46:060][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.02.19-17.02.46:060][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.02.19-17.02.46:060][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.02.19-17.02.46:060][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.02.19-17.02.46:060][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.02.19-17.02.46:060][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.02.19-17.02.46:060][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.02.19-17.02.46:060][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Unreal Engine/Projects/Task2/Saved/Config/Windows/Scalability.ini]
+[2022.02.19-17.02.46:060][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.02.19-17.02.46:060][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.02.19-17.02.46:060][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.02.19-17.02.46:060][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.02.19-17.02.46:060][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.02.19-17.02.46:060][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.02.19-17.02.46:060][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.02.19-17.02.46:060][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.02.19-17.02.46:060][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.02.19-17.02.46:060][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.02.19-17.02.46:060][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.02.19-17.02.46:060][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.02.19-17.02.46:060][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.02.19-17.02.46:060][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.02.19-17.02.46:060][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.02.19-17.02.46:060][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.02.19-17.02.46:060][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.02.19-17.02.46:060][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.02.19-17.02.46:060][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.02.19-17.02.46:060][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.02.19-17.02.46:060][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.02.19-17.02.46:060][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.02.19-17.02.46:060][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.02.19-17.02.46:061][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.02.19-17.02.46:061][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.02.19-17.02.46:061][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.02.19-17.02.46:061][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.02.19-17.02.46:061][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.02.19-17.02.46:061][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.02.19-17.02.46:061][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.02.19-17.02.46:061][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Unreal Engine/Projects/Task2/Saved/Config/Windows/Scalability.ini]
+[2022.02.19-17.02.46:061][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.02.19-17.02.46:061][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.02.19-17.02.46:061][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.02.19-17.02.46:061][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.02.19-17.02.46:061][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.02.19-17.02.46:061][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.02.19-17.02.46:061][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.02.19-17.02.46:061][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.02.19-17.02.46:061][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.02.19-17.02.46:061][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Unreal Engine/Projects/Task2/Saved/Config/Windows/Scalability.ini]
+[2022.02.19-17.02.46:061][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.02.19-17.02.46:061][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.02.19-17.02.46:061][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.02.19-17.02.46:061][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.02.19-17.02.46:061][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.02.19-17.02.46:061][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.02.19-17.02.46:061][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.02.19-17.02.46:061][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.02.19-17.02.46:061][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.02.19-17.02.46:061][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.02.19-17.02.46:061][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.02.19-17.02.46:061][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.02.19-17.02.46:061][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.02.19-17.02.46:061][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.02.19-17.02.46:061][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.02.19-17.02.46:061][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.02.19-17.02.46:061][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.02.19-17.02.46:061][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.02.19-17.02.46:061][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.02.19-17.02.46:061][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.02.19-17.02.46:061][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.02.19-17.02.46:061][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.02.19-17.02.46:061][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.02.19-17.02.46:061][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.02.19-17.02.46:061][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.02.19-17.02.46:061][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.02.19-17.02.46:061][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.02.19-17.02.46:062][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Unreal Engine/Projects/Task2/Saved/Config/Windows/Scalability.ini]
+[2022.02.19-17.02.46:062][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.02.19-17.02.46:062][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.02.19-17.02.46:062][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/Unreal Engine/Projects/Task2/Saved/Config/Windows/Scalability.ini]
+[2022.02.19-17.02.46:062][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.02.19-17.02.46:062][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.02.19-17.02.46:062][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.02.19-17.02.46:062][  0]LogInit: Selected Device Profile: [Windows]
+[2022.02.19-17.02.46:062][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.02.19-17.02.46:062][  0]LogHAL: Display: Platform has ~ 24 GB [25704017920 / 34359738368 / 24], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.02.19-17.02.46:062][  0]LogInit: Going up to parent DeviceProfile []
+[2022.02.19-17.02.46:062][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Unreal Engine/Projects/Task2/Saved/Config/Windows/Scalability.ini]
+[2022.02.19-17.02.46:062][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.02.19-17.02.46:062][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.02.19-17.02.46:062][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Unreal Engine/Projects/Task2/Saved/Config/Windows/Scalability.ini]
+[2022.02.19-17.02.46:062][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.02.19-17.02.46:062][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Unreal Engine/Projects/Task2/Saved/Config/Windows/Scalability.ini]
+[2022.02.19-17.02.46:062][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.02.19-17.02.46:062][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.02.19-17.02.46:062][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.02.19-17.02.46:062][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.02.19-17.02.46:062][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.02.19-17.02.46:062][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.02.19-17.02.46:062][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.02.19-17.02.46:062][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.02.19-17.02.46:062][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.02.19-17.02.46:062][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.02.19-17.02.46:062][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.02.19-17.02.46:062][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.02.19-17.02.46:062][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.02.19-17.02.46:062][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.02.19-17.02.46:062][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.02.19-17.02.46:062][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.02.19-17.02.46:062][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.02.19-17.02.46:062][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.02.19-17.02.46:062][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Unreal Engine/Projects/Task2/Saved/Config/Windows/Scalability.ini]
+[2022.02.19-17.02.46:062][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.02.19-17.02.46:062][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.02.19-17.02.46:062][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.02.19-17.02.46:062][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.02.19-17.02.46:062][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.02.19-17.02.46:062][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.02.19-17.02.46:062][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.02.19-17.02.46:062][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.02.19-17.02.46:062][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.02.19-17.02.46:062][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.02.19-17.02.46:062][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.02.19-17.02.46:062][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.02.19-17.02.46:062][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.02.19-17.02.46:062][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.02.19-17.02.46:062][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.02.19-17.02.46:062][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.02.19-17.02.46:062][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.02.19-17.02.46:063][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.02.19-17.02.46:063][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.02.19-17.02.46:063][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.02.19-17.02.46:063][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.02.19-17.02.46:063][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.02.19-17.02.46:063][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.02.19-17.02.46:063][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.02.19-17.02.46:063][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.02.19-17.02.46:063][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.02.19-17.02.46:063][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.02.19-17.02.46:063][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.02.19-17.02.46:063][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.02.19-17.02.46:063][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.02.19-17.02.46:063][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Unreal Engine/Projects/Task2/Saved/Config/Windows/Scalability.ini]
+[2022.02.19-17.02.46:063][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.02.19-17.02.46:063][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.02.19-17.02.46:063][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.02.19-17.02.46:063][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.02.19-17.02.46:063][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.02.19-17.02.46:063][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.02.19-17.02.46:063][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.02.19-17.02.46:063][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.02.19-17.02.46:063][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.02.19-17.02.46:063][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Unreal Engine/Projects/Task2/Saved/Config/Windows/Scalability.ini]
+[2022.02.19-17.02.46:063][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.02.19-17.02.46:063][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.02.19-17.02.46:063][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.02.19-17.02.46:063][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.02.19-17.02.46:063][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.02.19-17.02.46:063][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.02.19-17.02.46:063][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.02.19-17.02.46:063][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.02.19-17.02.46:063][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.02.19-17.02.46:063][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.02.19-17.02.46:063][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.02.19-17.02.46:063][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.02.19-17.02.46:063][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.02.19-17.02.46:063][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.02.19-17.02.46:063][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.02.19-17.02.46:063][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.02.19-17.02.46:063][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.02.19-17.02.46:063][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.02.19-17.02.46:063][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.02.19-17.02.46:063][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.02.19-17.02.46:063][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.02.19-17.02.46:063][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.02.19-17.02.46:063][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.02.19-17.02.46:063][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.02.19-17.02.46:063][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.02.19-17.02.46:063][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.02.19-17.02.46:063][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.02.19-17.02.46:063][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Unreal Engine/Projects/Task2/Saved/Config/Windows/Scalability.ini]
+[2022.02.19-17.02.46:063][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.02.19-17.02.46:063][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.02.19-17.02.46:063][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/Unreal Engine/Projects/Task2/Saved/Config/Windows/Scalability.ini]
+[2022.02.19-17.02.46:063][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.02.19-17.02.46:063][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.02.19-17.02.46:063][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.02.19-17.02.46:063][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.02.19-17.02.46:064][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.02.19-17.02.46:064][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.02.19-17.02.46:064][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.02.19-17.02.46:064][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/Unreal Engine/Projects/Task2/Saved/Config/Windows/Engine.ini]
+[2022.02.19-17.02.46:064][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/Unreal Engine/Projects/Task2/Saved/Config/Windows/Editor.ini]
+[2022.02.19-17.02.46:064][  0]LogInit: Computer: GRAY2-PC
+[2022.02.19-17.02.46:064][  0]LogInit: User: gray2
+[2022.02.19-17.02.46:064][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.02.19-17.02.46:064][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.02.19-17.02.46:064][  0]LogMemory: Memory total: Physical=23.9GB (24GB approx)
+[2022.02.19-17.02.46:064][  0]LogMemory: Platform Memory Stats for Windows
+[2022.02.19-17.02.46:064][  0]LogMemory: Process Physical Memory: 137.21 MB used, 137.21 MB peak
+[2022.02.19-17.02.46:064][  0]LogMemory: Process Virtual Memory: 119.11 MB used, 119.11 MB peak
+[2022.02.19-17.02.46:064][  0]LogMemory: Physical Memory: 10774.47 MB used,  13738.79 MB free, 24513.26 MB total
+[2022.02.19-17.02.46:064][  0]LogMemory: Virtual Memory: 134204536.00 MB used,  13190.56 MB free, 134217728.00 MB total
+[2022.02.19-17.02.46:072][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.02.19-17.02.46:174][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.02.19-17.02.46:176][  0]LogInit: Using OS detected language (ru-RU).
+[2022.02.19-17.02.46:176][  0]LogInit: Using OS detected locale (ru-RU).
+[2022.02.19-17.02.46:182][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2022.02.19-17.02.46:182][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/ru/Editor.locres' could not be opened for reading!
+[2022.02.19-17.02.46:183][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/ru/EditorTutorials.locres' could not be opened for reading!
+[2022.02.19-17.02.46:183][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/ru/Keywords.locres' could not be opened for reading!
+[2022.02.19-17.02.46:183][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/ru/Category.locres' could not be opened for reading!
+[2022.02.19-17.02.46:183][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/ru/ToolTips.locres' could not be opened for reading!
+[2022.02.19-17.02.46:184][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/ru/PropertyNames.locres' could not be opened for reading!
+[2022.02.19-17.02.46:184][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
+[2022.02.19-17.02.46:186][  0]LogInit: Setting process to per monitor DPI aware
+[2022.02.19-17.02.46:227][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.02.19-17.02.46:259][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.02.19-17.02.46:259][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.02.19-17.02.46:846][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.02.19-17.02.46:846][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.02.19-17.02.46:846][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.02.19-17.02.46:846][  0]LogD3D11RHI: D3D11 adapters:
+[2022.02.19-17.02.47:009][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2022.02.19-17.02.47:009][  0]LogD3D11RHI:       8088/0/12256 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2022.02.19-17.02.47:013][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.02.19-17.02.47:013][  0]LogD3D11RHI:       0/0/12256 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.02.19-17.02.47:013][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.02.19-17.02.47:020][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.02.19-17.02.47:020][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2022.02.19-17.02.47:020][  0]LogWindows: EnumDisplayDevices:
+[2022.02.19-17.02.47:020][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2022.02.19-17.02.47:021][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2022.02.19-17.02.47:022][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2022.02.19-17.02.47:022][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2022.02.19-17.02.47:023][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.02.19-17.02.47:023][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2022.02.19-17.02.47:023][  0]LogD3D11RHI:   Driver Version: 511.23 (internal:30.0.15.1123, unified:511.23)
+[2022.02.19-17.02.47:023][  0]LogD3D11RHI:      Driver Date: 1-10-2022
+[2022.02.19-17.02.47:024][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2022.02.19-17.02.47:097][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.02.19-17.02.47:098][  0]LogD3D11RHI: Async texture creation enabled
+[2022.02.19-17.02.47:098][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.02.19-17.02.47:128][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.02.19-17.02.47:130][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.02.19-17.02.47:643][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.02.19-17.02.47:676][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.02.19-17.02.47:676][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.02.19-17.02.47:676][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.02.19-17.02.47:676][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.02.19-17.02.47:676][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.02.19-17.02.47:676][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.02.19-17.02.47:676][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.02.19-17.02.47:676][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.02.19-17.02.47:676][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.02.19-17.02.47:676][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.02.19-17.02.47:711][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.02.19-17.02.47:711][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.02.19-17.02.47:725][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.02.19-17.02.47:738][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.02.19-17.02.47:749][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.02.19-17.02.47:760][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.02.19-17.02.47:774][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.02.19-17.02.47:785][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.02.19-17.02.47:798][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.02.19-17.02.47:837][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.02.19-17.02.47:837][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.02.19-17.02.47:852][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.02.19-17.02.47:864][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.02.19-17.02.47:875][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.02.19-17.02.47:886][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.02.19-17.02.47:907][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.02.19-17.02.47:907][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.02.19-17.02.47:919][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.02.19-17.02.47:932][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.02.19-17.02.47:944][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.02.19-17.02.47:955][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.02.19-17.02.47:955][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.02.19-17.02.47:967][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.02.19-17.02.48:058][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.02.19-17.02.48:058][  0]LogShaderCompilers: Guid format shader working directory is 3 characters bigger than the processId version (../../../../../Unreal Engine/Projects/Task2/Intermediate/Shaders/WorkingDirectory/6968/).
+[2022.02.19-17.02.48:059][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/gray2/AppData/Local/Temp/UnrealShaderWorkingDir/048F3CF643354BB015CD76803D997C3C/'.
+[2022.02.19-17.02.48:059][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.02.19-17.02.48:059][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.02.19-17.02.49:111][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.02.19-17.02.49:302][  0]LogDerivedDataCache: Loaded boot cache 0.19s 77MB C:/Users/gray2/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.02.19-17.02.49:328][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/gray2/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2022.02.19-17.02.49:369][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Unreal Engine/Projects/Task2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.02.19-17.02.49:369][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.02.19-17.02.49:369][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Unreal Engine/Projects/Task2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.02.19-17.02.49:369][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.02.19-17.02.49:384][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.02.19-17.02.49:384][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.02.19-17.02.49:384][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.02.19-17.02.49:395][  0]LogDerivedDataCache: Speed tests for C:/Users/gray2/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.02.19-17.02.49:395][  0]LogDerivedDataCache: Display: Performance to C:/Users/gray2/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.09ms. RandomReadSpeed=403.42MBs, RandomWriteSpeed=121.36MBs. Assigned SpeedClass 'Local'
+[2022.02.19-17.02.49:396][  0]LogDerivedDataCache: Using Local data cache path C:/Users/gray2/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.02.19-17.02.49:396][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.02.19-17.02.49:396][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.02.19-17.02.49:460][  0]LogSlate: Using FreeType 2.10.0
+[2022.02.19-17.02.49:461][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.02.19-17.02.49:505][  0]LogAssetRegistry: FAssetRegistry took 0.0038 seconds to start up
+[2022.02.19-17.02.49:900][  0]LogInit: Selected Device Profile: [Windows]
+[2022.02.19-17.02.49:900][  0]LogInit: Active device profile: [000001CA97673100][000001CA96727B40 49] Windows
+[2022.02.19-17.02.49:900][  0]LogInit: Profiles: [000001CA97673100][000001CA96727B40 49] Windows, [000001CA97631200][000001CA9672BCC0 49] WindowsNoEditor, [000001CA97671300][000001CA9672E180 49] WindowsServer, [000001CA97632A00][000001CA96732300 49] WindowsClient, [000001CA97672B00][000001CA96736480 49] IOS, [000001CA97631700][000001CA9673A600 49] iPadAir, [000001CA97671800][000001CA9673E780 49] iPadAir2, [000001CA97504700][000001CA96746A40 49] IPadPro, [000001CA97504800][000001CA96742A80 49] iPadAir3, [000001CA97673400][000001CA9674AC00 49] iPadAir4, [000001CA97506F00][000001CA9674ED80 49] iPadMini2, [000001CA97671000][000001CA96752F00 49] iPadMini3, [000001CA97504B00][000001CA96757080 49] iPadMini4, [000001CA97672D00][000001CA9675B200 49] iPadMini5, [000001CA974EFF00][000001CA967634C0 49] iPhone6, [000001CA974EFE00][000001CA9675F500 49] iPodTouch6, [000001CA97633A00][000001CA96767740 49] iPhone7, [000001CA97633400][000001CA96723780 49] iPodTouch7, [000001CA974ED600][000001CA9676B8C0 49] iPhone5S, [000001CA97633F00][000001CA9676FA00 49] iPhone6Plus, [000001CA974EE700][000001CA96777B80 49] iPhone6S, [000001CA97630100][000001CA9677BD00 49] iPhone6SPlus, [000001CA974ED400][000001CA9677E1C0 49] iPhone7Plus, [000001CA97632D00][000001CA96782340 49] iPhoneSE, [000001CA974EC800][000001CA967864C0 49] iPhone8, [000001CA97632800][000001CA9678A640 49] iPhone8Plus, [000001CA974ED800][000001CA9678E7C0 49] iPhoneX, [000001CA97631900][000001CA96792940 49] iPhoneXS, [000001CA974EE900][000001CA96796AC0 49] iPhoneXSMax, [000001CA97633200][000001CA9679AC40 49] iPhoneXR, [000001CA974EDF00][000001CA88D0EDC0 49] iPhone11, [000001CA97630600][000001CA88D12F40 49] iPhone11Pro, [000001CA974EE100][000001CA88D170C0 49] iPhone11ProMax, [000001CA97631100][000001CA88D1B240 49] iPhoneSE2, [000001CA974EE200][000001CA88D1F3C0 49] iPhone12Mini, [000001CA97630300][000001CA88D23540 49] iPhone12, [000001CA974EEA00][000001CA88D276C0 49] iPhone12Pro, [000001CA97630A00][000001CA96773800 49] iPhone12ProMax, [000001CA974ED300][000001CA88D2B940 49] iPadPro105, [000001CA97631800][000001CA88D2FA80 49] iPadPro129, [000001CA974ED100][000001CA88D37C00 49] iPadPro97, [000001CA97631A00][000001CA977B00C0 49] iPadPro2_129, [000001CA974EF000][000001CA977B4240 49] iPad5, [000001CA97633E00][000001CA977B83C0 49] iPad6, [000001CA974ECA00][000001CA977BC540 49] iPad7, [000001CA97632300][000001CA977C06C0 49] iPad8, [000001CA974EF100][000001CA977C4840 49] iPadPro11, [000001CA97633C00][000001CA977C89C0 49] iPadPro2_11, [000001CA974EC900][000001CA977CCB40 49] iPadPro3_129, [000001CA97632E00][000001CA977D0CC0 49] iPadPro4_129, [000001CA974ECE00][000001CA977D4E40 49] AppleTV, [000001CA97631C00][000001CA977D8FC0 49] AppleTV4K, [000001CA974ECD00][000001CA977DD140 49] TVOS, [000001CA97633B00][000001CA977E12C0 49] Mac, [000001CA974EF800][000001CA977E5440 49] MacClient, [000001CA97632900][000001CA977E95C0 49] MacNoEditor, [000001CA974EFB00][000001CA977ED740 49] MacServer, [000001CA97632600][000001CA88D33880 49] Linux, [000001CA97670F00][000001CA977F19C0 49] LinuxAArch64, [000001CA97728600][000001CA977F5B00 49] LinuxNoEditor, [000001CA97672700][000001CA977F9C40 49] LinuxAArch64NoEditor, [000001CA97728E00][000001CA97800100 49] LinuxClient, [000001CA97672500][000001CA9781C280 49] LinuxAArch64Client, [000001CA97729300][000001CA97820400 49] LinuxServer, [000001CA97670300][000001CA97824580 49] LinuxAArch64Server, [000001CA97728100][000001CA97828700 49] Android, [000001CA97671F00][000001CA9782C880 49] Android_Low, [000001CA97729100][000001CA97830A00 49] Android_Mid, [000001CA97672300][000001CA97834B80 49] Android_High, [000001CA97630D00][000001CA97838D00 49] Android_Default, [000001CA97673C00][000001CA9783CE80 49] Android_Adreno4xx, [000001CA97633600][000001CA97841000 49] Android_Adreno5xx_Low, [000001CA97670100][000001CA97845180 49] Android_Adreno5xx, [000001CA97630C00][000001CA97849300 49] Android_Adreno6xx, [000001CA97671100][000001CA9784D480 49] Android_Adreno6xx_Vulkan, [000001CA97631E00][000001CA97851600 49] Android_Mali_T6xx, [000001CA97670E00][000001CA97855780 49] Android_Mali_T7xx, [000001CA97630F00][000001CA977FD8C0 49] Android_Mali_T8xx, [000001CA97673D00][000001CA97859A00 49] Android_Mali_G71, [000001CA97630500][000001CA9785DB40 49] Android_Mali_G72, [000001CA97671B00][000001CA97861C80 49] Android_Mali_G72_Vulkan, [000001CA97631300][000001CA97868140 49] Android_Mali_G76, [000001CA97673F00][000001CA9786C2C0 49] Android_Mali_G76_Vulkan, [000001CA97632C00][000001CA97870440 49] Android_Mali_G77, [000001CA97672E00][000001CA978745C0 49] Android_Mali_G77_Vulkan, [000001CA97630200][000001CA97878740 49] Android_Vulkan_SM5, [000001CA97671D00][000001CA9787C8C0 49] Android_PowerVR_G6xxx, [000001CA97632700][000001CA97880A40 49] Android_PowerVR_GT7xxx, [000001CA97671900][000001CA97884BC0 49] Android_PowerVR_GE8xxx, [000001CA97632F00][000001CA97888D40 49] Android_PowerVR_GM9xxx, [000001CA97670900][000001CA9788CEC0 49] Android_PowerVR_GM9xxx_Vulkan, [000001CA97632100][000001CA97891040 49] Android_TegraK1, [000001CA97670500][000001CA978951C0 49] Android_Unknown_Vulkan, [000001CA97631600][000001CA97899340 49] Lumin, [000001CA97507100][000001CA9789D4C0 49] Lumin_Desktop, [000001CA974EF900][000001CA978A1640 49] HoloLens, 
+[2022.02.19-17.02.50:060][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.02.19-17.02.50:060][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.02.19-17.02.50:060][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.02.19-17.02.50:060][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.02.19-17.02.50:060][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.02.19-17.02.50:088][  0]LogNetVersion: Task2 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 1147884149)
+[2022.02.19-17.02.50:988][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.02.19-17.02.51:142][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.152700 seconds
+[2022.02.19-17.02.51:148][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2022.02.19-17.02.51:148][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2022.02.19-17.02.51:148][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.02.19-17.02.51:688][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.02.19-17.02.51:699][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.02.19-17.02.51:815][  0]SourceControl: Source control is disabled
+[2022.02.19-17.02.51:815][  0]SourceControl: Source control is disabled
+[2022.02.19-17.02.51:825][  0]SourceControl: Source control is disabled
+[2022.02.19-17.02.51:835][  0]SourceControl: Source control is disabled
+[2022.02.19-17.02.51:847][  0]SourceControl: Source control is disabled
+[2022.02.19-17.02.51:856][  0]LogUProjectInfo: Found projects:
+[2022.02.19-17.02.52:213][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.02.19-17.02.52:240][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.02.19-17.02.52:240][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.02.19-17.02.52:348][  0]LogCollectionManager: Loaded 0 collections in 0.006483 seconds
+[2022.02.19-17.02.52:414][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Engine/Projects/Task2/Saved/Collections/' took 0.01s
+[2022.02.19-17.02.52:414][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Engine/Projects/Task2/Content/Developers/gray2/Collections/' took 0.01s
+[2022.02.19-17.02.52:414][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Engine/Projects/Task2/Content/Collections/' took 0.01s
+[2022.02.19-17.02.52:414][  0]LogOcInput: OculusInput pre-init called
+[2022.02.19-17.02.52:437][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2022.02.19-17.02.52:437][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2022.02.19-17.02.52:523][  0]LogEngine: Initializing Engine...
+[2022.02.19-17.02.52:525][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.02.19-17.02.52:551][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.02.19-17.02.52:553][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2022.02.19-17.02.52:701][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.02.19-17.02.52:713][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.02.19-17.02.52:724][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.02.19-17.02.52:730][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.02.19-17.02.52:730][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.02.19-17.02.52:730][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.19-17.02.52:730][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.19-17.02.52:730][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.19-17.02.52:730][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.19-17.02.52:730][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.19-17.02.52:730][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.19-17.02.52:730][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.19-17.02.52:730][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.19-17.02.52:730][  0]LogAudio: Display: Using built-in audio occlusion.
+[2022.02.19-17.02.52:730][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.19-17.02.52:752][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.19-17.02.52:752][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.02.19-17.02.52:815][  0]LogAudioMixer: Display: Using Audio Device Наушники (High Definition Audio Device)
+[2022.02.19-17.02.52:817][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.19-17.02.52:822][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.19-17.02.52:822][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.19-17.02.52:823][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.19-17.02.52:823][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.19-17.02.52:823][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.19-17.02.52:824][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.19-17.02.52:824][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.19-17.02.52:824][  0]LogInit: FAudioDevice initialized.
+[2022.02.19-17.02.52:825][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.02.19-17.02.52:825][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.02.19-17.02.53:073][  0]LogDerivedDataCache: Saved boot cache 0.25s 77MB C:/Users/gray2/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.02.19-17.02.53:073][  0]LogInit: Texture streaming: Enabled
+[2022.02.19-17.02.53:090][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2022.02.19-17.02.53:100][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.02.19-17.02.53:100][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.02.19-17.02.53:124][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.02.19-17.02.53:158][  0]LogInit: Transaction tracking system initialized
+[2022.02.19-17.02.53:189][  0]BlueprintLog: New page: Editor Load
+[2022.02.19-17.02.53:293][  0]LocalizationService: Localization service is disabled
+[2022.02.19-17.02.53:324][  0]TimingProfiler: Initialize
+[2022.02.19-17.02.53:324][  0]TimingProfiler: OnSessionChanged
+[2022.02.19-17.02.53:324][  0]LoadingProfiler: Initialize
+[2022.02.19-17.02.53:325][  0]LoadingProfiler: OnSessionChanged
+[2022.02.19-17.02.53:325][  0]NetworkingProfiler: Initialize
+[2022.02.19-17.02.53:325][  0]NetworkingProfiler: OnSessionChanged
+[2022.02.19-17.02.53:325][  0]MemoryProfiler: Initialize
+[2022.02.19-17.02.53:325][  0]MemoryProfiler: OnSessionChanged
+[2022.02.19-17.02.53:586][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.02.19-17.02.53:586][  0]LogCook: Display: Mobile HDR setting 1
+[2022.02.19-17.02.53:828][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Engine/Projects/Task2/Content/' took 0.04s
+[2022.02.19-17.02.54:198][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.02.19-17.02.54:218][  0]SourceControl: Source control is disabled
+[2022.02.19-17.02.54:218][  0]LogUnrealEdMisc: Loading editor; pre map load, took 11.969
+[2022.02.19-17.02.54:218][  0]Cmd: MAP LOAD FILE="../../../../../Unreal Engine/Projects/Task2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.02.19-17.02.54:219][  0]LightingResults: New page: Lighting Build
+[2022.02.19-17.02.54:220][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.02.19-17.02.54:220][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.19-17.02.54:220][  0]MapCheck: New page: Map Check
+[2022.02.19-17.02.54:220][  0]LightingResults: New page: Lighting Build
+[2022.02.19-17.02.54:230][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2022.02.19-17.02.55:180][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2022.02.19-17.02.55:181][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.02.19-17.02.55:229][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.02.19-17.02.55:266][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.02.19-17.02.55:266][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.19-17.02.55:266][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,089ms to complete.
+[2022.02.19-17.02.55:266][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 1.048
+[2022.02.19-17.02.55:269][  0]LogUnrealEdMisc: Total Editor Startup Time, took 13.019
+[2022.02.19-17.02.55:914][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.19-17.02.55:946][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.19-17.02.55:960][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.19-17.02.55:973][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.19-17.02.56:213][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0112 seconds. Added 3601 classes and 859 folders.
+[2022.02.19-17.02.56:412][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.02.19-17.02.56:502][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.02.19-17.02.56:503][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.19-17.02.56:503][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.02.19-17.02.56:503][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2022.02.19-17.02.56:559][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.02.19-17.02.56:559][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.19-17.02.56:559][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.02.19-17.02.56:559][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2022.02.19-17.02.56:595][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.02.19-17.02.56:595][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.19-17.02.56:595][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.02.19-17.02.56:595][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2022.02.19-17.02.56:608][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.19-17.02.56:608][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.19-17.02.56:608][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.02.19-17.02.56:608][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2022.02.19-17.02.56:658][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.02.19-17.02.56:658][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.19-17.02.56:658][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.02.19-17.02.56:658][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2022.02.19-17.02.56:678][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.02.19-17.02.56:678][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.19-17.02.56:678][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.02.19-17.02.56:678][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2022.02.19-17.02.56:693][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.02.19-17.02.56:693][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.19-17.02.56:693][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.02.19-17.02.56:693][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2022.02.19-17.02.56:712][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.02.19-17.02.56:712][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.19-17.02.56:712][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.02.19-17.02.56:712][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2022.02.19-17.02.56:718][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.02.19-17.02.56:718][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.19-17.02.56:718][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.02.19-17.02.56:718][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2022.02.19-17.02.56:734][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.02.19-17.02.56:734][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.19-17.02.56:734][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.02.19-17.02.56:734][  0]LogPakFile: OnPakFileMounted2Time == 0.000059
+[2022.02.19-17.02.56:745][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.02.19-17.02.56:745][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.19-17.02.56:745][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.02.19-17.02.56:745][  0]LogPakFile: OnPakFileMounted2Time == 0.000063
+[2022.02.19-17.02.56:772][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.02.19-17.02.56:772][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.19-17.02.56:772][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.02.19-17.02.56:772][  0]LogPakFile: OnPakFileMounted2Time == 0.000066
+[2022.02.19-17.02.56:775][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.19-17.02.56:775][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.19-17.02.56:775][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.02.19-17.02.56:775][  0]LogPakFile: OnPakFileMounted2Time == 0.000070
+[2022.02.19-17.02.56:806][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.02.19-17.02.56:806][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.19-17.02.56:806][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.02.19-17.02.56:806][  0]LogPakFile: OnPakFileMounted2Time == 0.000074
+[2022.02.19-17.02.56:811][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.02.19-17.02.56:812][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.19-17.02.56:812][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.02.19-17.02.56:812][  0]LogPakFile: OnPakFileMounted2Time == 0.000079
+[2022.02.19-17.02.56:824][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.02.19-17.02.56:824][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.19-17.02.56:824][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.02.19-17.02.56:824][  0]LogPakFile: OnPakFileMounted2Time == 0.000085
+[2022.02.19-17.02.56:829][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.02.19-17.02.56:829][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.19-17.02.56:829][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.02.19-17.02.56:829][  0]LogPakFile: OnPakFileMounted2Time == 0.000089
+[2022.02.19-17.02.56:841][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.02.19-17.02.56:841][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.19-17.02.56:841][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.02.19-17.02.56:841][  0]LogPakFile: OnPakFileMounted2Time == 0.000093
+[2022.02.19-17.02.56:847][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.19-17.02.56:847][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.19-17.02.56:847][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.02.19-17.02.56:847][  0]LogPakFile: OnPakFileMounted2Time == 0.000098
+[2022.02.19-17.02.56:859][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.19-17.02.56:859][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.19-17.02.56:859][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.02.19-17.02.56:859][  0]LogPakFile: OnPakFileMounted2Time == 0.000104
+[2022.02.19-17.02.56:865][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.02.19-17.02.56:865][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.19-17.02.56:865][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.02.19-17.02.56:865][  0]LogPakFile: OnPakFileMounted2Time == 0.000109
+[2022.02.19-17.02.56:877][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.02.19-17.02.56:877][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.19-17.02.56:877][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.02.19-17.02.56:877][  0]LogPakFile: OnPakFileMounted2Time == 0.000114
+[2022.02.19-17.02.56:886][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.02.19-17.02.56:886][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.19-17.02.56:886][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.02.19-17.02.56:886][  0]LogPakFile: OnPakFileMounted2Time == 0.000119
+[2022.02.19-17.02.56:892][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.02.19-17.02.56:892][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.19-17.02.56:892][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.02.19-17.02.56:892][  0]LogPakFile: OnPakFileMounted2Time == 0.000124
+[2022.02.19-17.02.56:899][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.19-17.02.56:899][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.19-17.02.56:899][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.02.19-17.02.56:899][  0]LogPakFile: OnPakFileMounted2Time == 0.000129
+[2022.02.19-17.02.56:905][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.02.19-17.02.56:905][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.19-17.02.56:905][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.02.19-17.02.56:905][  0]LogPakFile: OnPakFileMounted2Time == 0.000133
+[2022.02.19-17.02.57:606][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2022.02.19-17.02.57:696][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 2 classes and 0 folders.
+[2022.02.19-17.03.00:187][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.02.19-17.03.00:367][  0]LogSlate: Took 0.000524 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.02.19-17.03.00:369][  0]LogSlate: Took 0.000395 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.02.19-17.03.00:417][  0]LogSlate: Took 0.011901 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.02.19-17.03.00:905][  0]LogRenderer: Reallocating scene render targets to support 1616x800 Format 10 NumSamples 1 (Frame:1).
+[2022.02.19-17.03.01:444][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.02.19-17.03.01:444][  0]LogLoad: (Engine Initialization) Total time: 19.19 seconds
+[2022.02.19-17.03.01:444][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.02.19-17.03.01:444][  0]LogInit: First time updating LLM stats...
+[2022.02.19-17.03.01:544][  0]LogAssetRegistry: Asset discovery search completed in 12.0394 seconds
+[2022.02.19-17.03.01:545][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2022.02.19-17.03.01:580][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.02.19-17.03.02:517][ 61]LogSlate: Took 0.049361 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.02.19-17.03.17:954][660]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_CoreMechanics/MyHUD.MyHUD
+[2022.02.19-17.03.19:059][660]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2022.02.19-17.03.25:359][660]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_CoreMechanics/MyGameMode.MyGameMode
+[2022.02.19-17.03.25:858][660]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_MainObjects/Button.Button
+[2022.02.19-17.03.26:573][660]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_CoreMechanics/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.02.19-17.03.27:897][660]LogSlate: Took 0.000375 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.02.19-17.04.12:001][883]LogSlate: Took 0.000464 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.02.19-17.04.28:425][851]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2022.02.19-17.04.30:276][998]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2022.02.19-17.04.30:280][998]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2022.02.19-17.04.30:336][998]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.02.19-17.04.30:336][998]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.19-17.04.30:403][998]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.02.19-17.04.30:404][998]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.02.19-17.04.30:404][998]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.19-17.04.30:444][998]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.02.19-17.04.30:444][998]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.02.19-17.04.30:444][998]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.19-17.04.30:588][998]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.02.19-17.04.30:588][998]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.02.19-17.04.30:588][998]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.19-17.04.39:710][ 24]LogRenderer: Reallocating scene render targets to support 1616x804 Format 10 NumSamples 1 (Frame:2416).
+[2022.02.19-17.04.39:771][ 25]LogRenderer: Reallocating scene render targets to support 1616x820 Format 10 NumSamples 1 (Frame:2418).
+[2022.02.19-17.04.39:852][ 26]LogRenderer: Reallocating scene render targets to support 1616x840 Format 10 NumSamples 1 (Frame:2420).
+[2022.02.19-17.04.39:943][ 27]LogRenderer: Reallocating scene render targets to support 1616x852 Format 10 NumSamples 1 (Frame:2422).
+[2022.02.19-17.04.40:015][ 28]LogRenderer: Reallocating scene render targets to support 1616x880 Format 10 NumSamples 1 (Frame:2424).
+[2022.02.19-17.04.40:084][ 29]LogRenderer: Reallocating scene render targets to support 1616x884 Format 10 NumSamples 1 (Frame:2426).
+[2022.02.19-18.10.22:332][258]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.02.19-18.39.00:622][657]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.02.19-18.39.00:622][657]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.02.19-18.39.37:167][547]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\gray2\Downloads\Idle.fbx)
+[2022.02.19-18.39.37:427][547]LogFbx: Loading FBX Scene from C:\Users\gray2\Downloads\Idle.fbx
+[2022.02.19-18.39.37:723][547]LogFbx: FBX Scene Loaded Succesfully
+[2022.02.19-18.40.24:037][547]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.02.19-18.40.24:129][547]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node newVegas:Elvis_BodyGeo : The relative matrices do not match
+[2022.02.19-18.40.24:130][547]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node newVegas:Elvis_MouthAnimGeo : The relative matrices do not match
+[2022.02.19-18.40.24:130][547]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node newVegas:Elvis_BrowsAnimGeo : The relative matrices do not match
+[2022.02.19-18.40.24:131][547]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node newVegas:Elvis_EyesAnimGeo : The relative matrices do not match
+[2022.02.19-18.40.24:131][547]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node newVegas:Elvis_BodyGeo : The relative matrices do not match
+[2022.02.19-18.40.24:132][547]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node newVegas:Elvis_MouthAnimGeo : The relative matrices do not match
+[2022.02.19-18.40.24:133][547]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node newVegas:Elvis_BrowsAnimGeo : The relative matrices do not match
+[2022.02.19-18.40.24:133][547]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node newVegas:Elvis_EyesAnimGeo : The relative matrices do not match
+[2022.02.19-18.40.24:134][547]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node newVegas:Elvis_BodyGeo : The relative matrices do not match
+[2022.02.19-18.40.24:134][547]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node newVegas:Elvis_MouthAnimGeo : The relative matrices do not match
+[2022.02.19-18.40.24:135][547]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node newVegas:Elvis_BrowsAnimGeo : The relative matrices do not match
+[2022.02.19-18.40.24:135][547]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node newVegas:Elvis_EyesAnimGeo : The relative matrices do not match
+[2022.02.19-18.40.24:136][547]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node newVegas:Elvis_BodyGeo : The relative matrices do not match
+[2022.02.19-18.40.24:137][547]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node newVegas:Elvis_MouthAnimGeo : The relative matrices do not match
+[2022.02.19-18.40.24:137][547]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node newVegas:Elvis_BrowsAnimGeo : The relative matrices do not match
+[2022.02.19-18.40.24:138][547]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node newVegas:Elvis_EyesAnimGeo : The relative matrices do not match
+[2022.02.19-18.40.24:138][547]LogFbx: Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2022.02.19-18.40.24:141][547]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - newVegas:Elvis_BodyGeo
+[2022.02.19-18.40.24:141][547]LogFbx: Warning: Recreating bind pose succeeded.
+[2022.02.19-18.40.24:191][547]LogMaterial: Display: Material /Game/Character/Character_Fat_Elvis_body_color.Character_Fat_Elvis_body_color needed to have new flag set bUsedWithSkeletalMesh !
+[2022.02.19-18.40.24:193][547]LogMaterial: Display: Missing cached shader map for material Character_Fat_Elvis_body_color, compiling. 
+[2022.02.19-18.40.24:422][547]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2022.02.19-18.40.24:422][547]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2022.02.19-18.40.24:422][547]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2022.02.19-18.40.24:422][547]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2022.02.19-18.40.24:422][547]LogTexture: Display: Building textures: FatElvis_diffuse (AutoDXT, 2048X2048)
+[2022.02.19-18.40.25:184][547]LogTexture: Display: Building textures: FatElvis_normal (BC5, 2048X2048)
+[2022.02.19-18.40.25:386][547]LogMaterial: Display: Missing cached shader map for material Character_Fat_Elvis_body_color, compiling. 
+[2022.02.19-18.40.25:419][547]LogFbx: Triangulating skeletal mesh newVegas:Elvis_BodyGeo
+[2022.02.19-18.40.25:715][547]LogMaterial: Display: Material /Game/Character/Elvis_Mouth_MAT.Elvis_Mouth_MAT needed to have new flag set bUsedWithSkeletalMesh !
+[2022.02.19-18.40.25:716][547]LogMaterial: Display: Missing cached shader map for material Elvis_Mouth_MAT, compiling. 
+[2022.02.19-18.40.25:834][547]LogTexture: Display: Building textures: Elvis_FaceAnimMap (AutoDXT, 2048X2048)
+[2022.02.19-18.40.26:635][547]LogTexture: Display: Building textures: Elvis_FaceAnimMap (AutoDXT, 2048X2048)
+[2022.02.19-18.40.27:359][547]LogMaterial: Display: Missing cached shader map for material Elvis_Mouth_MAT, compiling. 
+[2022.02.19-18.40.27:456][547]LogFbx: Triangulating skeletal mesh newVegas:Elvis_MouthAnimGeo
+[2022.02.19-18.40.27:463][547]LogMaterial: Display: Material /Game/Character/Elvis_Brows_MAT.Elvis_Brows_MAT needed to have new flag set bUsedWithSkeletalMesh !
+[2022.02.19-18.40.27:464][547]LogMaterial: Display: Missing cached shader map for material Elvis_Brows_MAT, compiling. 
+[2022.02.19-18.40.27:601][547]LogTexture: Display: Building textures: Elvis_FaceAnimMap_ncl1_1 (AutoDXT, 2048X2048)
+[2022.02.19-18.40.28:472][547]LogTexture: Display: Building textures: Elvis_FaceAnimMap_ncl1_1 (AutoDXT, 2048X2048)
+[2022.02.19-18.40.29:229][547]LogMaterial: Display: Missing cached shader map for material Elvis_Brows_MAT, compiling. 
+[2022.02.19-18.40.29:268][547]LogFbx: Triangulating skeletal mesh newVegas:Elvis_BrowsAnimGeo
+[2022.02.19-18.40.29:274][547]LogMaterial: Display: Material /Game/Character/Elvis_Eyes_MAT.Elvis_Eyes_MAT needed to have new flag set bUsedWithSkeletalMesh !
+[2022.02.19-18.40.29:275][547]LogMaterial: Display: Missing cached shader map for material Elvis_Eyes_MAT, compiling. 
+[2022.02.19-18.40.29:402][547]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 160
+[2022.02.19-18.40.29:402][547]LogTexture: Display: Building textures: Elvis_FaceAnimMap_ncl1_2 (AutoDXT, 2048X2048)
+[2022.02.19-18.40.30:297][547]LogTexture: Display: Building textures: Elvis_FaceAnimMap_ncl1_2 (AutoDXT, 2048X2048)
+[2022.02.19-18.40.31:071][547]LogMaterial: Display: Missing cached shader map for material Elvis_Eyes_MAT, compiling. 
+[2022.02.19-18.40.31:119][547]LogFbx: Triangulating skeletal mesh newVegas:Elvis_EyesAnimGeo
+[2022.02.19-18.40.31:167][547]LogFbx: Warning: Bones digested - 83  Depth of hierarchy - 11
+[2022.02.19-18.40.31:546][547]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 182
+[2022.02.19-18.40.31:625][547]LogSkeletalMesh: Section 0: Material=0, 6890 triangles
+[2022.02.19-18.40.31:625][547]LogSkeletalMesh: Section 1: Material=1, 78 triangles
+[2022.02.19-18.40.31:625][547]LogSkeletalMesh: Section 2: Material=2, 108 triangles
+[2022.02.19-18.40.31:625][547]LogSkeletalMesh: Section 3: Material=3, 124 triangles
+[2022.02.19-18.40.31:643][547]LogSkeletalMesh: Building Skeletal Mesh Idle...
+[2022.02.19-18.40.32:012][547]LogSkeletalMesh: Section 0: Material=0, 6890 triangles
+[2022.02.19-18.40.32:012][547]LogSkeletalMesh: Section 1: Material=1, 78 triangles
+[2022.02.19-18.40.32:012][547]LogSkeletalMesh: Section 2: Material=2, 108 triangles
+[2022.02.19-18.40.32:012][547]LogSkeletalMesh: Section 3: Material=3, 124 triangles
+[2022.02.19-18.40.32:047][547]LogSkeletalMesh: Built Skeletal Mesh [0.40s] /Game/Character/Idle.Idle
+[2022.02.19-18.40.32:074][547]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.02.19-18.40.32:074][547]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.19-18.40.32:092][547]LogFbx: SortedLinks :(0) Hips
+[2022.02.19-18.40.32:092][547]LogFbx: SortedLinks :(1) Pelvis
+[2022.02.19-18.40.32:092][547]LogFbx: SortedLinks :(2) LeftUpLeg
+[2022.02.19-18.40.32:093][547]LogFbx: SortedLinks :(3) LeftLeg
+[2022.02.19-18.40.32:093][547]LogFbx: SortedLinks :(4) LeftFoot
+[2022.02.19-18.40.32:093][547]LogFbx: SortedLinks :(5) LeftToeBase
+[2022.02.19-18.40.32:093][547]LogFbx: SortedLinks :(6) Left_PantLeg
+[2022.02.19-18.40.32:093][547]LogFbx: SortedLinks :(7) RightUpLeg
+[2022.02.19-18.40.32:093][547]LogFbx: SortedLinks :(8) RightLeg
+[2022.02.19-18.40.32:093][547]LogFbx: SortedLinks :(9) RightFoot
+[2022.02.19-18.40.32:093][547]LogFbx: SortedLinks :(10) RightToeBase
+[2022.02.19-18.40.32:093][547]LogFbx: SortedLinks :(11) Right_PantLeg
+[2022.02.19-18.40.32:093][547]LogFbx: SortedLinks :(12) Spine
+[2022.02.19-18.40.32:093][547]LogFbx: SortedLinks :(13) Spine1
+[2022.02.19-18.40.32:093][547]LogFbx: SortedLinks :(14) Spine2
+[2022.02.19-18.40.32:093][547]LogFbx: SortedLinks :(15) Neck
+[2022.02.19-18.40.32:093][547]LogFbx: SortedLinks :(16) Head
+[2022.02.19-18.40.32:093][547]LogFbx: SortedLinks :(17) Hair_Back
+[2022.02.19-18.40.32:093][547]LogFbx: SortedLinks :(18) Hair_Front
+[2022.02.19-18.40.32:093][547]LogFbx: SortedLinks :(19) Hair_Front1
+[2022.02.19-18.40.32:093][547]LogFbx: SortedLinks :(20) Hair_Front2
+[2022.02.19-18.40.32:093][547]LogFbx: SortedLinks :(21) Jowel
+[2022.02.19-18.40.32:093][547]LogFbx: SortedLinks :(22) LeftShoulder
+[2022.02.19-18.40.32:093][547]LogFbx: SortedLinks :(23) LeftArm
+[2022.02.19-18.40.32:093][547]LogFbx: SortedLinks :(24) LeftForeArm
+[2022.02.19-18.40.32:093][547]LogFbx: SortedLinks :(25) LeftHand
+[2022.02.19-18.40.32:093][547]LogFbx: SortedLinks :(26) LeftHandThumb1
+[2022.02.19-18.40.32:093][547]LogFbx: SortedLinks :(27) LeftHandThumb2
+[2022.02.19-18.40.32:093][547]LogFbx: SortedLinks :(28) LeftHandThumb3
+[2022.02.19-18.40.32:093][547]LogFbx: SortedLinks :(29) LeftHandIndex1
+[2022.02.19-18.40.32:093][547]LogFbx: SortedLinks :(30) LeftHandIndex2
+[2022.02.19-18.40.32:093][547]LogFbx: SortedLinks :(31) LeftHandIndex3
+[2022.02.19-18.40.32:093][547]LogFbx: SortedLinks :(32) LeftHandMiddle1
+[2022.02.19-18.40.32:093][547]LogFbx: SortedLinks :(33) LeftHandMiddle2
+[2022.02.19-18.40.32:093][547]LogFbx: SortedLinks :(34) LeftHandMiddle3
+[2022.02.19-18.40.32:093][547]LogFbx: SortedLinks :(35) LeftHandRing1
+[2022.02.19-18.40.32:093][547]LogFbx: SortedLinks :(36) LeftHandRing2
+[2022.02.19-18.40.32:093][547]LogFbx: SortedLinks :(37) LeftHandRing3
+[2022.02.19-18.40.32:093][547]LogFbx: SortedLinks :(38) LeftHandPinky1
+[2022.02.19-18.40.32:093][547]LogFbx: SortedLinks :(39) LeftHandPinky2
+[2022.02.19-18.40.32:093][547]LogFbx: SortedLinks :(40) LeftHandPinky3
+[2022.02.19-18.40.32:093][547]LogFbx: SortedLinks :(41) Left_Sleeve
+[2022.02.19-18.40.32:093][547]LogFbx: SortedLinks :(42) Left_CapeC
+[2022.02.19-18.40.32:093][547]LogFbx: SortedLinks :(43) Left_CapeC1
+[2022.02.19-18.40.32:093][547]LogFbx: SortedLinks :(44) Left_CapeB
+[2022.02.19-18.40.32:093][547]LogFbx: SortedLinks :(45) Left_CapeB1
+[2022.02.19-18.40.32:093][547]LogFbx: SortedLinks :(46) Left_CapeA
+[2022.02.19-18.40.32:093][547]LogFbx: SortedLinks :(47) Left_CapeA1
+[2022.02.19-18.40.32:093][547]LogFbx: SortedLinks :(48) RightShoulder
+[2022.02.19-18.40.32:093][547]LogFbx: SortedLinks :(49) RightArm
+[2022.02.19-18.40.32:094][547]LogFbx: SortedLinks :(50) RightForeArm
+[2022.02.19-18.40.32:094][547]LogFbx: SortedLinks :(51) RightHand
+[2022.02.19-18.40.32:094][547]LogFbx: SortedLinks :(52) RightHandThumb1
+[2022.02.19-18.40.32:094][547]LogFbx: SortedLinks :(53) RightHandThumb2
+[2022.02.19-18.40.32:094][547]LogFbx: SortedLinks :(54) RightHandThumb3
+[2022.02.19-18.40.32:094][547]LogFbx: SortedLinks :(55) RightHandIndex1
+[2022.02.19-18.40.32:094][547]LogFbx: SortedLinks :(56) RightHandIndex2
+[2022.02.19-18.40.32:094][547]LogFbx: SortedLinks :(57) RightHandIndex3
+[2022.02.19-18.40.32:094][547]LogFbx: SortedLinks :(58) RightHandMiddle1
+[2022.02.19-18.40.32:094][547]LogFbx: SortedLinks :(59) RightHandMiddle2
+[2022.02.19-18.40.32:094][547]LogFbx: SortedLinks :(60) RightHandMiddle3
+[2022.02.19-18.40.32:094][547]LogFbx: SortedLinks :(61) RightHandRing1
+[2022.02.19-18.40.32:094][547]LogFbx: SortedLinks :(62) RightHandRing2
+[2022.02.19-18.40.32:094][547]LogFbx: SortedLinks :(63) RightHandRing3
+[2022.02.19-18.40.32:094][547]LogFbx: SortedLinks :(64) RightHandPinky1
+[2022.02.19-18.40.32:094][547]LogFbx: SortedLinks :(65) RightHandPinky2
+[2022.02.19-18.40.32:094][547]LogFbx: SortedLinks :(66) RightHandPinky3
+[2022.02.19-18.40.32:094][547]LogFbx: SortedLinks :(67) Right_CapeC
+[2022.02.19-18.40.32:094][547]LogFbx: SortedLinks :(68) Right_CapeC1
+[2022.02.19-18.40.32:094][547]LogFbx: SortedLinks :(69) Right_Sleeve
+[2022.02.19-18.40.32:094][547]LogFbx: SortedLinks :(70) Right_CapeA
+[2022.02.19-18.40.32:094][547]LogFbx: SortedLinks :(71) Right_CapeA1
+[2022.02.19-18.40.32:094][547]LogFbx: SortedLinks :(72) Right_CapeB
+[2022.02.19-18.40.32:094][547]LogFbx: SortedLinks :(73) Right_CapeB1
+[2022.02.19-18.40.32:094][547]LogFbx: SortedLinks :(74) Left_Collar
+[2022.02.19-18.40.32:094][547]LogFbx: SortedLinks :(75) Left_Collar1
+[2022.02.19-18.40.32:094][547]LogFbx: SortedLinks :(76) Collar_Back
+[2022.02.19-18.40.32:094][547]LogFbx: SortedLinks :(77) Left_Peck
+[2022.02.19-18.40.32:094][547]LogFbx: SortedLinks :(78) Right_Peck
+[2022.02.19-18.40.32:094][547]LogFbx: SortedLinks :(79) Right_Collar
+[2022.02.19-18.40.32:094][547]LogFbx: SortedLinks :(80) Right_Collar1
+[2022.02.19-18.40.32:094][547]LogFbx: SortedLinks :(81) Belly
+[2022.02.19-18.40.32:094][547]LogFbx: SortedLinks :(82) ElvisFacialAnim_Joint
+[2022.02.19-18.40.32:094][547]LogFbx: SortedLinks :(0) Hips
+[2022.02.19-18.40.32:094][547]LogFbx: SortedLinks :(1) Pelvis
+[2022.02.19-18.40.32:094][547]LogFbx: SortedLinks :(2) LeftUpLeg
+[2022.02.19-18.40.32:094][547]LogFbx: SortedLinks :(3) LeftLeg
+[2022.02.19-18.40.32:094][547]LogFbx: SortedLinks :(4) LeftFoot
+[2022.02.19-18.40.32:094][547]LogFbx: SortedLinks :(5) LeftToeBase
+[2022.02.19-18.40.32:094][547]LogFbx: SortedLinks :(6) Left_PantLeg
+[2022.02.19-18.40.32:094][547]LogFbx: SortedLinks :(7) RightUpLeg
+[2022.02.19-18.40.32:095][547]LogFbx: SortedLinks :(8) RightLeg
+[2022.02.19-18.40.32:095][547]LogFbx: SortedLinks :(9) RightFoot
+[2022.02.19-18.40.32:095][547]LogFbx: SortedLinks :(10) RightToeBase
+[2022.02.19-18.40.32:095][547]LogFbx: SortedLinks :(11) Right_PantLeg
+[2022.02.19-18.40.32:095][547]LogFbx: SortedLinks :(12) Spine
+[2022.02.19-18.40.32:095][547]LogFbx: SortedLinks :(13) Spine1
+[2022.02.19-18.40.32:095][547]LogFbx: SortedLinks :(14) Spine2
+[2022.02.19-18.40.32:095][547]LogFbx: SortedLinks :(15) Neck
+[2022.02.19-18.40.32:095][547]LogFbx: SortedLinks :(16) Head
+[2022.02.19-18.40.32:095][547]LogFbx: SortedLinks :(17) Hair_Back
+[2022.02.19-18.40.32:095][547]LogFbx: SortedLinks :(18) Hair_Front
+[2022.02.19-18.40.32:095][547]LogFbx: SortedLinks :(19) Hair_Front1
+[2022.02.19-18.40.32:095][547]LogFbx: SortedLinks :(20) Hair_Front2
+[2022.02.19-18.40.32:095][547]LogFbx: SortedLinks :(21) Jowel
+[2022.02.19-18.40.32:095][547]LogFbx: SortedLinks :(22) LeftShoulder
+[2022.02.19-18.40.32:095][547]LogFbx: SortedLinks :(23) LeftArm
+[2022.02.19-18.40.32:095][547]LogFbx: SortedLinks :(24) LeftForeArm
+[2022.02.19-18.40.32:095][547]LogFbx: SortedLinks :(25) LeftHand
+[2022.02.19-18.40.32:095][547]LogFbx: SortedLinks :(26) LeftHandThumb1
+[2022.02.19-18.40.32:095][547]LogFbx: SortedLinks :(27) LeftHandThumb2
+[2022.02.19-18.40.32:095][547]LogFbx: SortedLinks :(28) LeftHandThumb3
+[2022.02.19-18.40.32:095][547]LogFbx: SortedLinks :(29) LeftHandIndex1
+[2022.02.19-18.40.32:095][547]LogFbx: SortedLinks :(30) LeftHandIndex2
+[2022.02.19-18.40.32:095][547]LogFbx: SortedLinks :(31) LeftHandIndex3
+[2022.02.19-18.40.32:095][547]LogFbx: SortedLinks :(32) LeftHandMiddle1
+[2022.02.19-18.40.32:095][547]LogFbx: SortedLinks :(33) LeftHandMiddle2
+[2022.02.19-18.40.32:095][547]LogFbx: SortedLinks :(34) LeftHandMiddle3
+[2022.02.19-18.40.32:095][547]LogFbx: SortedLinks :(35) LeftHandRing1
+[2022.02.19-18.40.32:095][547]LogFbx: SortedLinks :(36) LeftHandRing2
+[2022.02.19-18.40.32:095][547]LogFbx: SortedLinks :(37) LeftHandRing3
+[2022.02.19-18.40.32:095][547]LogFbx: SortedLinks :(38) LeftHandPinky1
+[2022.02.19-18.40.32:095][547]LogFbx: SortedLinks :(39) LeftHandPinky2
+[2022.02.19-18.40.32:095][547]LogFbx: SortedLinks :(40) LeftHandPinky3
+[2022.02.19-18.40.32:095][547]LogFbx: SortedLinks :(41) Left_Sleeve
+[2022.02.19-18.40.32:103][547]LogFbx: SortedLinks :(42) Left_CapeC
+[2022.02.19-18.40.32:103][547]LogFbx: SortedLinks :(43) Left_CapeC1
+[2022.02.19-18.40.32:103][547]LogFbx: SortedLinks :(44) Left_CapeB
+[2022.02.19-18.40.32:103][547]LogFbx: SortedLinks :(45) Left_CapeB1
+[2022.02.19-18.40.32:103][547]LogFbx: SortedLinks :(46) Left_CapeA
+[2022.02.19-18.40.32:103][547]LogFbx: SortedLinks :(47) Left_CapeA1
+[2022.02.19-18.40.32:103][547]LogFbx: SortedLinks :(48) RightShoulder
+[2022.02.19-18.40.32:103][547]LogFbx: SortedLinks :(49) RightArm
+[2022.02.19-18.40.32:103][547]LogFbx: SortedLinks :(50) RightForeArm
+[2022.02.19-18.40.32:103][547]LogFbx: SortedLinks :(51) RightHand
+[2022.02.19-18.40.32:103][547]LogFbx: SortedLinks :(52) RightHandThumb1
+[2022.02.19-18.40.32:103][547]LogFbx: SortedLinks :(53) RightHandThumb2
+[2022.02.19-18.40.32:104][547]LogFbx: SortedLinks :(54) RightHandThumb3
+[2022.02.19-18.40.32:104][547]LogFbx: SortedLinks :(55) RightHandIndex1
+[2022.02.19-18.40.32:104][547]LogFbx: SortedLinks :(56) RightHandIndex2
+[2022.02.19-18.40.32:104][547]LogFbx: SortedLinks :(57) RightHandIndex3
+[2022.02.19-18.40.32:104][547]LogFbx: SortedLinks :(58) RightHandMiddle1
+[2022.02.19-18.40.32:104][547]LogFbx: SortedLinks :(59) RightHandMiddle2
+[2022.02.19-18.40.32:104][547]LogFbx: SortedLinks :(60) RightHandMiddle3
+[2022.02.19-18.40.32:104][547]LogFbx: SortedLinks :(61) RightHandRing1
+[2022.02.19-18.40.32:104][547]LogFbx: SortedLinks :(62) RightHandRing2
+[2022.02.19-18.40.32:104][547]LogFbx: SortedLinks :(63) RightHandRing3
+[2022.02.19-18.40.32:104][547]LogFbx: SortedLinks :(64) RightHandPinky1
+[2022.02.19-18.40.32:104][547]LogFbx: SortedLinks :(65) RightHandPinky2
+[2022.02.19-18.40.32:104][547]LogFbx: SortedLinks :(66) RightHandPinky3
+[2022.02.19-18.40.32:104][547]LogFbx: SortedLinks :(67) Right_CapeC
+[2022.02.19-18.40.32:104][547]LogFbx: SortedLinks :(68) Right_CapeC1
+[2022.02.19-18.40.32:104][547]LogFbx: SortedLinks :(69) Right_Sleeve
+[2022.02.19-18.40.32:104][547]LogFbx: SortedLinks :(70) Right_CapeA
+[2022.02.19-18.40.32:104][547]LogFbx: SortedLinks :(71) Right_CapeA1
+[2022.02.19-18.40.32:104][547]LogFbx: SortedLinks :(72) Right_CapeB
+[2022.02.19-18.40.32:104][547]LogFbx: SortedLinks :(73) Right_CapeB1
+[2022.02.19-18.40.32:104][547]LogFbx: SortedLinks :(74) Left_Collar
+[2022.02.19-18.40.32:104][547]LogFbx: SortedLinks :(75) Left_Collar1
+[2022.02.19-18.40.32:104][547]LogFbx: SortedLinks :(76) Collar_Back
+[2022.02.19-18.40.32:104][547]LogFbx: SortedLinks :(77) Left_Peck
+[2022.02.19-18.40.32:104][547]LogFbx: SortedLinks :(78) Right_Peck
+[2022.02.19-18.40.32:104][547]LogFbx: SortedLinks :(79) Right_Collar
+[2022.02.19-18.40.32:104][547]LogFbx: SortedLinks :(80) Right_Collar1
+[2022.02.19-18.40.32:104][547]LogFbx: SortedLinks :(81) Belly
+[2022.02.19-18.40.32:104][547]LogFbx: SortedLinks :(82) ElvisFacialAnim_Joint
+[2022.02.19-18.40.32:106][547]LogFbx: Parsing AnimStack Take 001
+[2022.02.19-18.40.32:543][547]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 172
+[2022.02.19-18.40.32:752][547]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 162
+[2022.02.19-18.40.33:160][547]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character/Idle_Anim_Take_001.Idle_Anim_Take_001
+[2022.02.19-18.40.33:160][547]LogFbx: Parsing AnimStack mixamo.com
+[2022.02.19-18.40.33:786][547]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character/Idle_Anim_mixamo_com.Idle_Anim_mixamo_com
+[2022.02.19-18.40.33:843][547]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Elvis_FaceAnimMap' was renamed 'Elvis_FaceAnimMap_ncl1_1' 
+[2022.02.19-18.40.33:843][547]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Elvis_FaceAnimMap' was renamed 'Elvis_FaceAnimMap_ncl1_2' 
+[2022.02.19-18.40.33:843][547]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.02.19-18.40.33:843][547]FBXImport: Warning: The following bones are missing from the bind pose:
+newVegas:ElvisFacialAnim_Joint  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2022.02.19-18.40.34:093][547]LogSlate: Took 0.025312 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.02.19-18.40.36:329][654]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 152
+[2022.02.19-18.40.39:225][851]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 142
+[2022.02.19-18.40.39:810][884]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 132
+[2022.02.19-18.40.40:816][922]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 122
+[2022.02.19-18.40.44:475][160]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 112
+[2022.02.19-18.40.46:242][292]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 102
+[2022.02.19-18.40.47:227][367]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 92
+[2022.02.19-18.40.48:631][472]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 82
+[2022.02.19-18.40.49:940][563]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 72
+[2022.02.19-18.40.52:155][726]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 62
+[2022.02.19-18.40.52:931][782]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 52
+[2022.02.19-18.40.54:799][924]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 42
+[2022.02.19-18.40.56:410][ 45]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 32
+[2022.02.19-18.40.57:498][126]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2022.02.19-18.40.58:412][200]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2022.02.19-18.41.00:524][364]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2022.02.19-18.41.00:590][370]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2022.02.19-18.41.00:830][391]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2022.02.19-18.41.01:464][440]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2022.02.19-18.41.01:995][483]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2022.02.19-18.41.02:007][484]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2022.02.19-18.41.07:224][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2022.02.19-18.41.07:234][ 72]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.039
+[2022.02.19-18.41.07:269][ 72]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Idle] ([1] browsable assets)...
+[2022.02.19-18.41.07:348][ 72]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Character/Idle.Idle]
+[2022.02.19-18.41.07:348][ 72]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Idle]
+[2022.02.19-18.41.07:348][ 72]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Idle" FILE="../../../../../Unreal Engine/Projects/Task2/Saved/Autosaves/Game/Character/Idle_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2022.02.19-18.41.07:514][ 72]LogSavePackage: Moving '../../../../../Unreal Engine/Projects/Task2/Saved/Idle_Auto1CC15194E44E3A1F117B81292AC25E515.tmp' to '../../../../../Unreal Engine/Projects/Task2/Saved/Autosaves/Game/Character/Idle_Auto1.uasset'
+[2022.02.19-18.41.07:519][ 72]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Character/Idle_Skeleton] ([1] browsable assets)...
+[2022.02.19-18.41.07:519][ 72]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Idle_Skeleton]
+[2022.02.19-18.41.07:519][ 72]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Idle_Skeleton" FILE="../../../../../Unreal Engine/Projects/Task2/Saved/Autosaves/Game/Character/Idle_Skeleton_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2022.02.19-18.41.07:523][ 72]LogSavePackage: Moving '../../../../../Unreal Engine/Projects/Task2/Saved/Idle_Skeleton_Auto1F599AECF4D8F7664F614E491824F7BD0.tmp' to '../../../../../Unreal Engine/Projects/Task2/Saved/Autosaves/Game/Character/Idle_Skeleton_Auto1.uasset'
+[2022.02.19-18.41.07:527][ 72]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Idle_PhysicsAsset] ([1] browsable assets)...
+[2022.02.19-18.41.07:540][ 72]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Character/Idle_PhysicsAsset.Idle_PhysicsAsset]
+[2022.02.19-18.41.07:540][ 72]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Idle_PhysicsAsset]
+[2022.02.19-18.41.07:584][ 72]LogSavePackage: Moving '../../../../../Unreal Engine/Projects/Task2/Saved/Idle_PhysicsAsset_Auto121979B594E963A362AFDD88BC29CCE58.tmp' to '../../../../../Unreal Engine/Projects/Task2/Saved/Autosaves/Game/Character/Idle_PhysicsAsset_Auto1.uasset'
+[2022.02.19-18.41.07:593][ 72]LogFileHelpers: Auto-saving content packages took 0.359
+[2022.02.19-18.41.10:727][441]LogSlate: Window 'Message Log' being destroyed
+[2022.02.19-18.41.10:730][441]LogSlate: Window 'Message Log' being destroyed
+[2022.02.19-18.41.54:498][492]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Idle_Anim_mixamo_com)
+[2022.02.19-18.41.54:591][501]Cmd: DELETE
+[2022.02.19-18.41.54:591][501]Cmd: ACTOR DELETE
+[2022.02.19-18.41.54:683][501]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2022.02.19-18.41.54:727][501]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2022.02.19-18.41.54:734][501]LogEditorActor: Deleted 1 Actors (0.115 secs)
+[2022.02.19-18.44.00:665][567]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Character/Idle.Idle
+[2022.02.19-18.44.00:860][567]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2022.02.19-18.44.01:896][567]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.02.19-18.44.01:993][567]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0009 seconds. Added 1 classes and 0 folders.
+[2022.02.19-18.44.03:124][567]LogRenderer: Reallocating scene render targets to support 1616x1244 Format 10 NumSamples 1 (Frame:1).
+[2022.02.19-18.44.05:891][770]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Character/Idle_Anim_Take_001.Idle_Anim_Take_001
+[2022.02.19-18.44.05:929][770]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.02.19-18.44.06:915][770]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.02.19-18.44.15:136][490]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.02.19-18.44.15:136][490]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.19-18.45.16:561][880]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.02.19-18.45.16:561][880]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.19-18.45.16:577][880]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.02.19-18.45.16:577][880]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.19-18.45.16:642][880]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.02.19-18.45.16:642][880]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.19-18.45.17:415][950]LogSlate: Window 'Idle' being destroyed
+[2022.02.19-18.45.17:432][950]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.02.19-18.45.17:432][950]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.19-18.45.28:208][312]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\gray2\Downloads\Running.fbx)
+[2022.02.19-18.45.28:229][312]LogFbx: Loading FBX Scene from C:\Users\gray2\Downloads\Running.fbx
+[2022.02.19-18.45.28:332][312]LogFbx: FBX Scene Loaded Succesfully
+[2022.02.19-18.48.03:035][312]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.02.19-18.48.03:070][312]LogFbx: SortedLinks :(0) Hips
+[2022.02.19-18.48.03:070][312]LogFbx: SortedLinks :(1) Pelvis
+[2022.02.19-18.48.03:070][312]LogFbx: SortedLinks :(2) LeftUpLeg
+[2022.02.19-18.48.03:070][312]LogFbx: SortedLinks :(3) LeftLeg
+[2022.02.19-18.48.03:070][312]LogFbx: SortedLinks :(4) LeftFoot
+[2022.02.19-18.48.03:070][312]LogFbx: SortedLinks :(5) LeftToeBase
+[2022.02.19-18.48.03:070][312]LogFbx: SortedLinks :(6) Left_PantLeg
+[2022.02.19-18.48.03:070][312]LogFbx: SortedLinks :(7) RightUpLeg
+[2022.02.19-18.48.03:070][312]LogFbx: SortedLinks :(8) RightLeg
+[2022.02.19-18.48.03:070][312]LogFbx: SortedLinks :(9) RightFoot
+[2022.02.19-18.48.03:070][312]LogFbx: SortedLinks :(10) RightToeBase
+[2022.02.19-18.48.03:070][312]LogFbx: SortedLinks :(11) Right_PantLeg
+[2022.02.19-18.48.03:070][312]LogFbx: SortedLinks :(12) Spine
+[2022.02.19-18.48.03:070][312]LogFbx: SortedLinks :(13) Spine1
+[2022.02.19-18.48.03:070][312]LogFbx: SortedLinks :(14) Spine2
+[2022.02.19-18.48.03:070][312]LogFbx: SortedLinks :(15) Neck
+[2022.02.19-18.48.03:070][312]LogFbx: SortedLinks :(16) Head
+[2022.02.19-18.48.03:070][312]LogFbx: SortedLinks :(17) Hair_Back
+[2022.02.19-18.48.03:070][312]LogFbx: SortedLinks :(18) Hair_Front
+[2022.02.19-18.48.03:070][312]LogFbx: SortedLinks :(19) Hair_Front1
+[2022.02.19-18.48.03:070][312]LogFbx: SortedLinks :(20) Hair_Front2
+[2022.02.19-18.48.03:070][312]LogFbx: SortedLinks :(21) Jowel
+[2022.02.19-18.48.03:070][312]LogFbx: SortedLinks :(22) LeftShoulder
+[2022.02.19-18.48.03:070][312]LogFbx: SortedLinks :(23) LeftArm
+[2022.02.19-18.48.03:070][312]LogFbx: SortedLinks :(24) LeftForeArm
+[2022.02.19-18.48.03:070][312]LogFbx: SortedLinks :(25) LeftHand
+[2022.02.19-18.48.03:070][312]LogFbx: SortedLinks :(26) LeftHandThumb1
+[2022.02.19-18.48.03:070][312]LogFbx: SortedLinks :(27) LeftHandThumb2
+[2022.02.19-18.48.03:070][312]LogFbx: SortedLinks :(28) LeftHandThumb3
+[2022.02.19-18.48.03:070][312]LogFbx: SortedLinks :(29) LeftHandIndex1
+[2022.02.19-18.48.03:070][312]LogFbx: SortedLinks :(30) LeftHandIndex2
+[2022.02.19-18.48.03:070][312]LogFbx: SortedLinks :(31) LeftHandIndex3
+[2022.02.19-18.48.03:071][312]LogFbx: SortedLinks :(32) LeftHandMiddle1
+[2022.02.19-18.48.03:071][312]LogFbx: SortedLinks :(33) LeftHandMiddle2
+[2022.02.19-18.48.03:071][312]LogFbx: SortedLinks :(34) LeftHandMiddle3
+[2022.02.19-18.48.03:071][312]LogFbx: SortedLinks :(35) LeftHandRing1
+[2022.02.19-18.48.03:071][312]LogFbx: SortedLinks :(36) LeftHandRing2
+[2022.02.19-18.48.03:071][312]LogFbx: SortedLinks :(37) LeftHandRing3
+[2022.02.19-18.48.03:071][312]LogFbx: SortedLinks :(38) LeftHandPinky1
+[2022.02.19-18.48.03:071][312]LogFbx: SortedLinks :(39) LeftHandPinky2
+[2022.02.19-18.48.03:071][312]LogFbx: SortedLinks :(40) LeftHandPinky3
+[2022.02.19-18.48.03:071][312]LogFbx: SortedLinks :(41) Left_Sleeve
+[2022.02.19-18.48.03:071][312]LogFbx: SortedLinks :(42) Left_CapeC
+[2022.02.19-18.48.03:071][312]LogFbx: SortedLinks :(43) Left_CapeC1
+[2022.02.19-18.48.03:071][312]LogFbx: SortedLinks :(44) Left_CapeB
+[2022.02.19-18.48.03:071][312]LogFbx: SortedLinks :(45) Left_CapeB1
+[2022.02.19-18.48.03:071][312]LogFbx: SortedLinks :(46) Left_CapeA
+[2022.02.19-18.48.03:071][312]LogFbx: SortedLinks :(47) Left_CapeA1
+[2022.02.19-18.48.03:071][312]LogFbx: SortedLinks :(48) RightShoulder
+[2022.02.19-18.48.03:071][312]LogFbx: SortedLinks :(49) RightArm
+[2022.02.19-18.48.03:071][312]LogFbx: SortedLinks :(50) RightForeArm
+[2022.02.19-18.48.03:071][312]LogFbx: SortedLinks :(51) RightHand
+[2022.02.19-18.48.03:071][312]LogFbx: SortedLinks :(52) RightHandThumb1
+[2022.02.19-18.48.03:071][312]LogFbx: SortedLinks :(53) RightHandThumb2
+[2022.02.19-18.48.03:071][312]LogFbx: SortedLinks :(54) RightHandThumb3
+[2022.02.19-18.48.03:071][312]LogFbx: SortedLinks :(55) RightHandIndex1
+[2022.02.19-18.48.03:071][312]LogFbx: SortedLinks :(56) RightHandIndex2
+[2022.02.19-18.48.03:071][312]LogFbx: SortedLinks :(57) RightHandIndex3
+[2022.02.19-18.48.03:071][312]LogFbx: SortedLinks :(58) RightHandMiddle1
+[2022.02.19-18.48.03:071][312]LogFbx: SortedLinks :(59) RightHandMiddle2
+[2022.02.19-18.48.03:071][312]LogFbx: SortedLinks :(60) RightHandMiddle3
+[2022.02.19-18.48.03:071][312]LogFbx: SortedLinks :(61) RightHandRing1
+[2022.02.19-18.48.03:071][312]LogFbx: SortedLinks :(62) RightHandRing2
+[2022.02.19-18.48.03:071][312]LogFbx: SortedLinks :(63) RightHandRing3
+[2022.02.19-18.48.03:071][312]LogFbx: SortedLinks :(64) RightHandPinky1
+[2022.02.19-18.48.03:071][312]LogFbx: SortedLinks :(65) RightHandPinky2
+[2022.02.19-18.48.03:071][312]LogFbx: SortedLinks :(66) RightHandPinky3
+[2022.02.19-18.48.03:071][312]LogFbx: SortedLinks :(67) Right_CapeC
+[2022.02.19-18.48.03:071][312]LogFbx: SortedLinks :(68) Right_CapeC1
+[2022.02.19-18.48.03:071][312]LogFbx: SortedLinks :(69) Right_Sleeve
+[2022.02.19-18.48.03:071][312]LogFbx: SortedLinks :(70) Right_CapeA
+[2022.02.19-18.48.03:071][312]LogFbx: SortedLinks :(71) Right_CapeA1
+[2022.02.19-18.48.03:071][312]LogFbx: SortedLinks :(72) Right_CapeB
+[2022.02.19-18.48.03:071][312]LogFbx: SortedLinks :(73) Right_CapeB1
+[2022.02.19-18.48.03:071][312]LogFbx: SortedLinks :(74) Left_Collar
+[2022.02.19-18.48.03:071][312]LogFbx: SortedLinks :(75) Left_Collar1
+[2022.02.19-18.48.03:071][312]LogFbx: SortedLinks :(76) Collar_Back
+[2022.02.19-18.48.03:071][312]LogFbx: SortedLinks :(77) Left_Peck
+[2022.02.19-18.48.03:071][312]LogFbx: SortedLinks :(78) Right_Peck
+[2022.02.19-18.48.03:071][312]LogFbx: SortedLinks :(79) Right_Collar
+[2022.02.19-18.48.03:071][312]LogFbx: SortedLinks :(80) Right_Collar1
+[2022.02.19-18.48.03:071][312]LogFbx: SortedLinks :(81) Belly
+[2022.02.19-18.48.03:071][312]LogFbx: SortedLinks :(82) ElvisFacialAnim_Joint
+[2022.02.19-18.48.03:071][312]LogFbx: SortedLinks :(0) Hips
+[2022.02.19-18.48.03:071][312]LogFbx: SortedLinks :(1) Pelvis
+[2022.02.19-18.48.03:071][312]LogFbx: SortedLinks :(2) LeftUpLeg
+[2022.02.19-18.48.03:071][312]LogFbx: SortedLinks :(3) LeftLeg
+[2022.02.19-18.48.03:071][312]LogFbx: SortedLinks :(4) LeftFoot
+[2022.02.19-18.48.03:071][312]LogFbx: SortedLinks :(5) LeftToeBase
+[2022.02.19-18.48.03:071][312]LogFbx: SortedLinks :(6) Left_PantLeg
+[2022.02.19-18.48.03:071][312]LogFbx: SortedLinks :(7) RightUpLeg
+[2022.02.19-18.48.03:072][312]LogFbx: SortedLinks :(8) RightLeg
+[2022.02.19-18.48.03:072][312]LogFbx: SortedLinks :(9) RightFoot
+[2022.02.19-18.48.03:072][312]LogFbx: SortedLinks :(10) RightToeBase
+[2022.02.19-18.48.03:072][312]LogFbx: SortedLinks :(11) Right_PantLeg
+[2022.02.19-18.48.03:072][312]LogFbx: SortedLinks :(12) Spine
+[2022.02.19-18.48.03:072][312]LogFbx: SortedLinks :(13) Spine1
+[2022.02.19-18.48.03:072][312]LogFbx: SortedLinks :(14) Spine2
+[2022.02.19-18.48.03:072][312]LogFbx: SortedLinks :(15) Neck
+[2022.02.19-18.48.03:072][312]LogFbx: SortedLinks :(16) Head
+[2022.02.19-18.48.03:072][312]LogFbx: SortedLinks :(17) Hair_Back
+[2022.02.19-18.48.03:072][312]LogFbx: SortedLinks :(18) Hair_Front
+[2022.02.19-18.48.03:072][312]LogFbx: SortedLinks :(19) Hair_Front1
+[2022.02.19-18.48.03:072][312]LogFbx: SortedLinks :(20) Hair_Front2
+[2022.02.19-18.48.03:072][312]LogFbx: SortedLinks :(21) Jowel
+[2022.02.19-18.48.03:072][312]LogFbx: SortedLinks :(22) LeftShoulder
+[2022.02.19-18.48.03:072][312]LogFbx: SortedLinks :(23) LeftArm
+[2022.02.19-18.48.03:072][312]LogFbx: SortedLinks :(24) LeftForeArm
+[2022.02.19-18.48.03:072][312]LogFbx: SortedLinks :(25) LeftHand
+[2022.02.19-18.48.03:072][312]LogFbx: SortedLinks :(26) LeftHandThumb1
+[2022.02.19-18.48.03:072][312]LogFbx: SortedLinks :(27) LeftHandThumb2
+[2022.02.19-18.48.03:072][312]LogFbx: SortedLinks :(28) LeftHandThumb3
+[2022.02.19-18.48.03:072][312]LogFbx: SortedLinks :(29) LeftHandIndex1
+[2022.02.19-18.48.03:072][312]LogFbx: SortedLinks :(30) LeftHandIndex2
+[2022.02.19-18.48.03:072][312]LogFbx: SortedLinks :(31) LeftHandIndex3
+[2022.02.19-18.48.03:072][312]LogFbx: SortedLinks :(32) LeftHandMiddle1
+[2022.02.19-18.48.03:072][312]LogFbx: SortedLinks :(33) LeftHandMiddle2
+[2022.02.19-18.48.03:072][312]LogFbx: SortedLinks :(34) LeftHandMiddle3
+[2022.02.19-18.48.03:072][312]LogFbx: SortedLinks :(35) LeftHandRing1
+[2022.02.19-18.48.03:072][312]LogFbx: SortedLinks :(36) LeftHandRing2
+[2022.02.19-18.48.03:072][312]LogFbx: SortedLinks :(37) LeftHandRing3
+[2022.02.19-18.48.03:072][312]LogFbx: SortedLinks :(38) LeftHandPinky1
+[2022.02.19-18.48.03:072][312]LogFbx: SortedLinks :(39) LeftHandPinky2
+[2022.02.19-18.48.03:072][312]LogFbx: SortedLinks :(40) LeftHandPinky3
+[2022.02.19-18.48.03:072][312]LogFbx: SortedLinks :(41) Left_Sleeve
+[2022.02.19-18.48.03:072][312]LogFbx: SortedLinks :(42) Left_CapeC
+[2022.02.19-18.48.03:072][312]LogFbx: SortedLinks :(43) Left_CapeC1
+[2022.02.19-18.48.03:072][312]LogFbx: SortedLinks :(44) Left_CapeB
+[2022.02.19-18.48.03:072][312]LogFbx: SortedLinks :(45) Left_CapeB1
+[2022.02.19-18.48.03:072][312]LogFbx: SortedLinks :(46) Left_CapeA
+[2022.02.19-18.48.03:072][312]LogFbx: SortedLinks :(47) Left_CapeA1
+[2022.02.19-18.48.03:072][312]LogFbx: SortedLinks :(48) RightShoulder
+[2022.02.19-18.48.03:072][312]LogFbx: SortedLinks :(49) RightArm
+[2022.02.19-18.48.03:072][312]LogFbx: SortedLinks :(50) RightForeArm
+[2022.02.19-18.48.03:072][312]LogFbx: SortedLinks :(51) RightHand
+[2022.02.19-18.48.03:072][312]LogFbx: SortedLinks :(52) RightHandThumb1
+[2022.02.19-18.48.03:072][312]LogFbx: SortedLinks :(53) RightHandThumb2
+[2022.02.19-18.48.03:072][312]LogFbx: SortedLinks :(54) RightHandThumb3
+[2022.02.19-18.48.03:072][312]LogFbx: SortedLinks :(55) RightHandIndex1
+[2022.02.19-18.48.03:072][312]LogFbx: SortedLinks :(56) RightHandIndex2
+[2022.02.19-18.48.03:072][312]LogFbx: SortedLinks :(57) RightHandIndex3
+[2022.02.19-18.48.03:072][312]LogFbx: SortedLinks :(58) RightHandMiddle1
+[2022.02.19-18.48.03:072][312]LogFbx: SortedLinks :(59) RightHandMiddle2
+[2022.02.19-18.48.03:072][312]LogFbx: SortedLinks :(60) RightHandMiddle3
+[2022.02.19-18.48.03:072][312]LogFbx: SortedLinks :(61) RightHandRing1
+[2022.02.19-18.48.03:072][312]LogFbx: SortedLinks :(62) RightHandRing2
+[2022.02.19-18.48.03:072][312]LogFbx: SortedLinks :(63) RightHandRing3
+[2022.02.19-18.48.03:072][312]LogFbx: SortedLinks :(64) RightHandPinky1
+[2022.02.19-18.48.03:072][312]LogFbx: SortedLinks :(65) RightHandPinky2
+[2022.02.19-18.48.03:072][312]LogFbx: SortedLinks :(66) RightHandPinky3
+[2022.02.19-18.48.03:072][312]LogFbx: SortedLinks :(67) Right_CapeC
+[2022.02.19-18.48.03:072][312]LogFbx: SortedLinks :(68) Right_CapeC1
+[2022.02.19-18.48.03:072][312]LogFbx: SortedLinks :(69) Right_Sleeve
+[2022.02.19-18.48.03:072][312]LogFbx: SortedLinks :(70) Right_CapeA
+[2022.02.19-18.48.03:072][312]LogFbx: SortedLinks :(71) Right_CapeA1
+[2022.02.19-18.48.03:072][312]LogFbx: SortedLinks :(72) Right_CapeB
+[2022.02.19-18.48.03:072][312]LogFbx: SortedLinks :(73) Right_CapeB1
+[2022.02.19-18.48.03:072][312]LogFbx: SortedLinks :(74) Left_Collar
+[2022.02.19-18.48.03:072][312]LogFbx: SortedLinks :(75) Left_Collar1
+[2022.02.19-18.48.03:072][312]LogFbx: SortedLinks :(76) Collar_Back
+[2022.02.19-18.48.03:072][312]LogFbx: SortedLinks :(77) Left_Peck
+[2022.02.19-18.48.03:072][312]LogFbx: SortedLinks :(78) Right_Peck
+[2022.02.19-18.48.03:072][312]LogFbx: SortedLinks :(79) Right_Collar
+[2022.02.19-18.48.03:073][312]LogFbx: SortedLinks :(80) Right_Collar1
+[2022.02.19-18.48.03:073][312]LogFbx: SortedLinks :(81) Belly
+[2022.02.19-18.48.03:073][312]LogFbx: SortedLinks :(82) ElvisFacialAnim_Joint
+[2022.02.19-18.48.03:073][312]LogFbx: Parsing AnimStack Take 001
+[2022.02.19-18.48.40:842][312]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character/Running_Take_001.Running_Take_001
+[2022.02.19-18.48.40:852][312]LogFbx: Parsing AnimStack mixamo.com
+[2022.02.19-18.48.49:285][312]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character/Running_mixamo_com.Running_mixamo_com
+[2022.02.19-18.48.49:285][312]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Elvis_FaceAnimMap' was renamed 'Elvis_FaceAnimMap_ncl1_1' 
+[2022.02.19-18.48.49:285][312]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Elvis_FaceAnimMap' was renamed 'Elvis_FaceAnimMap_ncl1_2' 
+[2022.02.19-18.48.49:365][312]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character/Running_mixamo_com.Running_mixamo_com
+[2022.02.19-18.48.55:154][849]LogSlate: Window 'Message Log' being destroyed
+[2022.02.19-18.48.55:157][849]LogSlate: Window 'Message Log' being destroyed
+[2022.02.19-18.48.59:420][305]LogUObjectHash: Compacting FUObjectHashTables data took   4.93ms
+[2022.02.19-18.49.01:915][305]LogSlate: Window 'Delete Assets' being destroyed
+[2022.02.19-18.49.01:996][305]LogUObjectGlobals: Force Deleting 2 Package(s):
+	Asset Name: /Game/Character/Idle_Anim_Take_001.Idle_Anim_Take_001
+	Asset Name: /Game/Character/Running_Take_001.Running_Take_001
+[2022.02.19-18.49.04:390][305]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2022.02.19-18.49.14:853][533]LogMetaData: Removing '/Game/AICharacter/Idle_Skeleton.Idle_Skeleton' ref from Metadata '/Game/Character/Idle_Skeleton.PackageMetaData'
+[2022.02.19-18.49.14:855][533]LogMetaData: Removing '/Game/AICharacter/Idle_Anim_mixamo_com.Idle_Anim_mixamo_com' ref from Metadata '/Game/Character/Idle_Anim_mixamo_com.PackageMetaData'
+[2022.02.19-18.49.14:857][533]LogMetaData: Removing '/Game/AICharacter/Running_mixamo_com.Running_mixamo_com' ref from Metadata '/Game/Character/Running_mixamo_com.PackageMetaData'
+[2022.02.19-18.49.14:885][533]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AICharacter/Idle" FILE="../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/Idle.uasset" SILENT=true
+[2022.02.19-18.49.14:920][533]LogSavePackage: Moving '../../../../../Unreal Engine/Projects/Task2/Saved/IdleF64D250B4AF9C43BB69C9EAF4F0042E5.tmp' to '../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/Idle.uasset'
+[2022.02.19-18.49.14:931][533]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AICharacter/Character_Fat_Elvis_body_color" FILE="../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/Character_Fat_Elvis_body_color.uasset" SILENT=true
+[2022.02.19-18.49.14:937][533]LogSavePackage: Moving '../../../../../Unreal Engine/Projects/Task2/Saved/Character_Fat_Elvis_body_colorF00F1E8F44A6CFE8E5E68F986AEB6731.tmp' to '../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/Character_Fat_Elvis_body_color.uasset'
+[2022.02.19-18.49.14:944][533]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AICharacter/FatElvis_diffuse" FILE="../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/FatElvis_diffuse.uasset" SILENT=true
+[2022.02.19-18.49.15:282][533]LogSavePackage: Moving '../../../../../Unreal Engine/Projects/Task2/Saved/FatElvis_diffuseC8C97AE64C3D2BAD9E46B28A53928F9C.tmp' to '../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/FatElvis_diffuse.uasset'
+[2022.02.19-18.49.15:338][533]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AICharacter/FatElvis_normal" FILE="../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/FatElvis_normal.uasset" SILENT=true
+[2022.02.19-18.49.15:653][533]LogSavePackage: Moving '../../../../../Unreal Engine/Projects/Task2/Saved/FatElvis_normal69F34B5249582329BFEDA7A06E7BDC49.tmp' to '../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/FatElvis_normal.uasset'
+[2022.02.19-18.49.15:664][533]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AICharacter/Elvis_Mouth_MAT" FILE="../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/Elvis_Mouth_MAT.uasset" SILENT=true
+[2022.02.19-18.49.15:670][533]LogSavePackage: Moving '../../../../../Unreal Engine/Projects/Task2/Saved/Elvis_Mouth_MAT32DA73784A2E03B633387E8C63C88162.tmp' to '../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/Elvis_Mouth_MAT.uasset'
+[2022.02.19-18.49.15:677][533]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AICharacter/Elvis_FaceAnimMap" FILE="../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/Elvis_FaceAnimMap.uasset" SILENT=true
+[2022.02.19-18.49.15:824][533]LogSavePackage: Moving '../../../../../Unreal Engine/Projects/Task2/Saved/Elvis_FaceAnimMapD9107DA84CFD13CF15F1728D543E783E.tmp' to '../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/Elvis_FaceAnimMap.uasset'
+[2022.02.19-18.49.15:863][533]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AICharacter/Elvis_Brows_MAT" FILE="../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/Elvis_Brows_MAT.uasset" SILENT=true
+[2022.02.19-18.49.15:875][533]LogSavePackage: Moving '../../../../../Unreal Engine/Projects/Task2/Saved/Elvis_Brows_MAT7A7FB77F4C5B8D627B846AAA865DF1FD.tmp' to '../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/Elvis_Brows_MAT.uasset'
+[2022.02.19-18.49.15:891][533]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AICharacter/Elvis_FaceAnimMap_ncl1_1" FILE="../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/Elvis_FaceAnimMap_ncl1_1.uasset" SILENT=true
+[2022.02.19-18.49.16:040][533]LogSavePackage: Moving '../../../../../Unreal Engine/Projects/Task2/Saved/Elvis_FaceAnimMap_ncl1_184E9BA3A489E088505DF0BAD87BD151E.tmp' to '../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/Elvis_FaceAnimMap_ncl1_1.uasset'
+[2022.02.19-18.49.16:062][533]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AICharacter/Elvis_Eyes_MAT" FILE="../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/Elvis_Eyes_MAT.uasset" SILENT=true
+[2022.02.19-18.49.16:075][533]LogSavePackage: Moving '../../../../../Unreal Engine/Projects/Task2/Saved/Elvis_Eyes_MAT9B570D8D4A9265C60230728648D44731.tmp' to '../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/Elvis_Eyes_MAT.uasset'
+[2022.02.19-18.49.16:091][533]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AICharacter/Elvis_FaceAnimMap_ncl1_2" FILE="../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/Elvis_FaceAnimMap_ncl1_2.uasset" SILENT=true
+[2022.02.19-18.49.16:238][533]LogSavePackage: Moving '../../../../../Unreal Engine/Projects/Task2/Saved/Elvis_FaceAnimMap_ncl1_29B0D44954A99042618648AA75C7708A1.tmp' to '../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/Elvis_FaceAnimMap_ncl1_2.uasset'
+[2022.02.19-18.49.16:244][533]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AICharacter/Idle_Skeleton" FILE="../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/Idle_Skeleton.uasset" SILENT=true
+[2022.02.19-18.49.16:248][533]LogSavePackage: Moving '../../../../../Unreal Engine/Projects/Task2/Saved/Idle_Skeleton63DCE90B48A7A072181D23B42EE6E48E.tmp' to '../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/Idle_Skeleton.uasset'
+[2022.02.19-18.49.16:263][533]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AICharacter/Idle_PhysicsAsset" FILE="../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/Idle_PhysicsAsset.uasset" SILENT=true
+[2022.02.19-18.49.16:279][533]LogSavePackage: Moving '../../../../../Unreal Engine/Projects/Task2/Saved/Idle_PhysicsAsset9DBD2E54431BDDDE6949808F262FC564.tmp' to '../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/Idle_PhysicsAsset.uasset'
+[2022.02.19-18.49.16:295][533]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AICharacter/Idle_Anim_mixamo_com" FILE="../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/Idle_Anim_mixamo_com.uasset" SILENT=true
+[2022.02.19-18.49.16:305][533]LogSavePackage: Moving '../../../../../Unreal Engine/Projects/Task2/Saved/Idle_Anim_mixamo_comF5B538CE4BEC9897CFB678A10A71B6E6.tmp' to '../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/Idle_Anim_mixamo_com.uasset'
+[2022.02.19-18.49.16:321][533]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AICharacter/Running_mixamo_com" FILE="../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/Running_mixamo_com.uasset" SILENT=true
+[2022.02.19-18.49.16:342][533]LogSavePackage: Moving '../../../../../Unreal Engine/Projects/Task2/Saved/Running_mixamo_com81487FA3480B9765410A359A6883F473.tmp' to '../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/Running_mixamo_com.uasset'
+[2022.02.19-18.49.16:521][533]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.02.19-18.49.16:539][533]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.02.19-18.49.16:552][533]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.02.19-18.49.16:566][533]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.02.19-18.49.16:579][533]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.02.19-18.49.16:593][533]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.02.19-18.49.16:606][533]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.02.19-18.49.16:620][533]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.02.19-18.49.16:634][533]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.02.19-18.49.16:648][533]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.02.19-18.49.16:661][533]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.02.19-18.49.16:674][533]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.02.19-18.49.16:687][533]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.02.19-18.49.16:701][533]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.02.19-18.49.16:720][533]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2022.02.19-18.49.16:734][533]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.02.19-18.49.16:775][533]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.19-18.49.16:775][533]LogContentValidation: Display: Validating SkeletalMesh /Game/AICharacter/Idle.Idle
+[2022.02.19-18.49.16:776][533]LogContentValidation: Display: Validating Material /Game/AICharacter/Character_Fat_Elvis_body_color.Character_Fat_Elvis_body_color
+[2022.02.19-18.49.16:776][533]LogContentValidation: Display: Validating Texture2D /Game/AICharacter/FatElvis_diffuse.FatElvis_diffuse
+[2022.02.19-18.49.16:776][533]LogContentValidation: Display: Validating Texture2D /Game/AICharacter/FatElvis_normal.FatElvis_normal
+[2022.02.19-18.49.16:776][533]LogContentValidation: Display: Validating Material /Game/AICharacter/Elvis_Mouth_MAT.Elvis_Mouth_MAT
+[2022.02.19-18.49.16:776][533]LogContentValidation: Display: Validating Texture2D /Game/AICharacter/Elvis_FaceAnimMap.Elvis_FaceAnimMap
+[2022.02.19-18.49.16:776][533]LogContentValidation: Display: Validating Material /Game/AICharacter/Elvis_Brows_MAT.Elvis_Brows_MAT
+[2022.02.19-18.49.16:776][533]LogContentValidation: Display: Validating Texture2D /Game/AICharacter/Elvis_FaceAnimMap_ncl1_1.Elvis_FaceAnimMap_ncl1_1
+[2022.02.19-18.49.16:776][533]LogContentValidation: Display: Validating Material /Game/AICharacter/Elvis_Eyes_MAT.Elvis_Eyes_MAT
+[2022.02.19-18.49.16:776][533]LogContentValidation: Display: Validating Texture2D /Game/AICharacter/Elvis_FaceAnimMap_ncl1_2.Elvis_FaceAnimMap_ncl1_2
+[2022.02.19-18.49.16:776][533]LogContentValidation: Display: Validating Skeleton /Game/AICharacter/Idle_Skeleton.Idle_Skeleton
+[2022.02.19-18.49.16:776][533]LogContentValidation: Display: Validating PhysicsAsset /Game/AICharacter/Idle_PhysicsAsset.Idle_PhysicsAsset
+[2022.02.19-18.49.16:776][533]LogContentValidation: Display: Validating AnimSequence /Game/AICharacter/Idle_Anim_mixamo_com.Idle_Anim_mixamo_com
+[2022.02.19-18.49.16:776][533]LogContentValidation: Display: Validating AnimSequence /Game/AICharacter/Running_mixamo_com.Running_mixamo_com
+[2022.02.19-18.51.07:471][673]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2022.02.19-18.51.07:633][673]LogSavePackage: Moving '../../../../../Unreal Engine/Projects/Task2/Saved/ThirdPersonExampleMap_Auto2109BDFF740B93A39B61F8DB07B89F20E.tmp' to '../../../../../Unreal Engine/Projects/Task2/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2022.02.19-18.51.07:649][673]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.193
+[2022.02.19-18.51.07:649][673]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.193
+[2022.02.19-18.51.39:579][870]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.02.19-18.51.39:586][870]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.02.19-18.51.39:601][870]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.02.19-18.51.45:023][511]LogContentBrowser: Attempting asset rename: NewBlueprint -> AICharacter
+[2022.02.19-18.51.45:053][511]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.02.19-18.51.47:511][803]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AICharacter/AICharacter.AICharacter
+[2022.02.19-18.51.48:211][803]LogRenderer: Reallocating scene render targets to support 1676x1244 Format 10 NumSamples 1 (Frame:1).
+[2022.02.19-18.54.32:671][939]LogSlate: Window 'AICharacter' being destroyed
+[2022.02.19-18.54.36:994][415]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_CoreMechanics/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.02.19-18.54.50:336][794]LogEditorTransaction: Undo Paste clipboard contents
+[2022.02.19-18.55.27:459][428]BlueprintLog: New page: Compile AICharacter
+[2022.02.19-18.55.27:514][428]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2022.02.19-18.55.41:531][ 31]BlueprintLog: New page: Compile AICharacter
+[2022.02.19-18.55.41:576][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2022.02.19-18.57.47:213][400]Cmd: MODE GRID=0
+[2022.02.19-18.58.23:749][729]BlueprintLog: New page: Compile AICharacter
+[2022.02.19-18.58.23:813][729]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2022.02.19-18.59.51:609][520]Cmd: MODE GRID=1
+[2022.02.19-19.00.01:780][662]BlueprintLog: New page: Compile AICharacter
+[2022.02.19-19.00.01:839][662]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2022.02.19-19.02.15:253][768]BlueprintLog: New page: Compile AICharacter
+[2022.02.19-19.02.15:305][768]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2022.02.19-19.04.57:347][493]BlueprintLog: New page: Compile AICharacter
+[2022.02.19-19.04.57:402][493]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2022.02.19-19.05.09:876][651]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.02.19-19.05.09:897][651]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2022.02.19-19.05.34:316][651]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2022.02.19-19.05.34:322][651]LogContentBrowser: Deferred new asset file creation: NewAnimBlueprint
+[2022.02.19-19.05.34:343][651]LogContentBrowser: Creating deferred item: NewAnimBlueprint
+[2022.02.19-19.05.44:399][828]LogContentBrowser: Attempting asset rename: NewAnimBlueprint -> AIAnimBluePrint
+[2022.02.19-19.05.44:404][828]LogContentBrowser: End creating deferred item NewAnimBlueprint
+[2022.02.19-19.05.48:827][342]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/AICharacter/AIAnimBluePrint.AIAnimBluePrint
+[2022.02.19-19.05.48:857][342]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.02.19-19.05.49:925][342]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.02.19-19.06.35:433][720]BlueprintLog: New page: Compile AIAnimBluePrint
+[2022.02.19-19.06.35:434][720]LogBlueprint: Warning: [AssetLog] /Game/AICharacter/AIAnimBluePrint.AIAnimBluePrint (no disk path found): [Compiler] Entry node  AIState  is not connected to state
+[2022.02.19-19.06.35:435][720]LogBlueprint: Warning: [AssetLog] /Game/AICharacter/AIAnimBluePrint.AIAnimBluePrint (no disk path found): [Compiler] There was no entry state connection in  AIState
+[2022.02.19-19.06.35:473][720]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2022.02.19-19.09.11:148][265]BlueprintLog: New page: Compile AIAnimBluePrint
+[2022.02.19-19.09.11:150][265]LogBlueprint: Warning: [AssetLog] /Game/AICharacter/AIAnimBluePrint.AIAnimBluePrint (no disk path found): [Compiler] Idle to Run  will never be taken, please connect something to  Can Enter Transition
+[2022.02.19-19.09.11:190][265]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2022.02.19-19.10.14:654][824]BlueprintLog: New page: Compile AIAnimBluePrint
+[2022.02.19-19.10.14:657][824]LogBlueprint: Warning: [AssetLog] /Game/AICharacter/AIAnimBluePrint.AIAnimBluePrint (no disk path found): [Compiler] Idle to Run  will never be taken, please connect something to  Can Enter Transition
+[2022.02.19-19.10.14:698][824]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2022.02.19-19.10.28:303][213]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.02.19-19.11.31:614][687]BlueprintLog: New page: Compile AICharacter
+[2022.02.19-19.11.31:683][687]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2022.02.19-19.12.57:780][917]BlueprintLog: New page: Compile AIAnimBluePrint
+[2022.02.19-19.12.57:822][917]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2022.02.19-19.13.12:490][625]BlueprintLog: New page: Compile AIAnimBluePrint
+[2022.02.19-19.13.12:532][625]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2022.02.19-19.13.23:236][583]BlueprintLog: New page: Compile AIAnimBluePrint
+[2022.02.19-19.13.23:279][583]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2022.02.19-19.17.58:538][268]BlueprintLog: New page: Compile AIAnimBluePrint
+[2022.02.19-19.17.58:587][268]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2022.02.19-19.19.03:425][137]BlueprintLog: New page: Compile AICharacter
+[2022.02.19-19.19.03:481][137]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2022.02.19-19.23.29:649][472]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.02.19-19.23.37:511][386]BlueprintLog: New page: Compile AICharacter
+[2022.02.19-19.23.37:562][386]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2022.02.19-19.25.51:825][372]BlueprintLog: New page: Compile AICharacter
+[2022.02.19-19.25.51:877][372]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2022.02.19-19.26.16:342][774]BlueprintLog: New page: Compile AIAnimBluePrint
+[2022.02.19-19.26.16:434][774]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2022.02.19-19.26.17:414][877]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AICharacter/AIAnimBluePrint" FILE="../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/AIAnimBluePrint.uasset" SILENT=true
+[2022.02.19-19.26.17:436][877]LogSavePackage: Moving '../../../../../Unreal Engine/Projects/Task2/Saved/AIAnimBluePrint5EE67B434C52CBF50B37A6AD7936C942.tmp' to '../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/AIAnimBluePrint.uasset'
+[2022.02.19-19.26.17:448][877]AssetCheck: New page: Asset Save: AIAnimBluePrint
+[2022.02.19-19.26.17:448][877]LogContentValidation: Display: Validating AnimBlueprint /Game/AICharacter/AIAnimBluePrint.AIAnimBluePrint
+[2022.02.19-19.26.20:141][184]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2022.02.19-19.26.20:141][184]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.19-19.26.20:147][184]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2022.02.19-19.26.20:147][184]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.19-19.26.20:240][184]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2022.02.19-19.26.20:240][184]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.19-19.26.29:122][160]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/AICharacter/Idle.Idle
+[2022.02.19-19.26.29:127][160]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.02.19-19.26.45:542][990]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2022.02.19-19.26.45:542][990]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.19-19.27.04:321][ 96]LogContentBrowser: Attempting asset rename: Idle -> ElvisMesh
+[2022.02.19-19.27.04:362][ 96]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AICharacter/ElvisMesh" FILE="../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/ElvisMesh.uasset" SILENT=true
+[2022.02.19-19.27.04:396][ 96]LogSavePackage: Moving '../../../../../Unreal Engine/Projects/Task2/Saved/ElvisMesh35ABA10940263C9CBC83C48B7E0B5C71.tmp' to '../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/ElvisMesh.uasset'
+[2022.02.19-19.27.04:470][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2022.02.19-19.27.04:500][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2022.02.19-19.27.04:519][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.02.19-19.27.04:534][ 96]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AICharacter/Idle_PhysicsAsset" FILE="../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/Idle_PhysicsAsset.uasset" SILENT=true
+[2022.02.19-19.27.04:542][ 96]LogSavePackage: Moving '../../../../../Unreal Engine/Projects/Task2/Saved/Idle_PhysicsAsset802F6FFB467556D323B4CFBEFC8340E7.tmp' to '../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/Idle_PhysicsAsset.uasset'
+[2022.02.19-19.27.04:545][ 96]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AICharacter/Idle_Skeleton" FILE="../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/Idle_Skeleton.uasset" SILENT=true
+[2022.02.19-19.27.04:555][ 96]LogSavePackage: Moving '../../../../../Unreal Engine/Projects/Task2/Saved/Idle_SkeletonFE333B674E5F97019156DD810DD7F7B5.tmp' to '../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/Idle_Skeleton.uasset'
+[2022.02.19-19.27.04:591][ 96]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.19-19.27.04:591][ 96]LogContentValidation: Display: Validating SkeletalMesh /Game/AICharacter/ElvisMesh.ElvisMesh
+[2022.02.19-19.27.04:591][ 96]LogContentValidation: Display: Validating Skeleton /Game/AICharacter/Idle_Skeleton.Idle_Skeleton
+[2022.02.19-19.27.04:591][ 96]LogContentValidation: Display: Validating PhysicsAsset /Game/AICharacter/Idle_PhysicsAsset.Idle_PhysicsAsset
+[2022.02.19-19.27.18:863][712]LogContentBrowser: Attempting asset rename: AIAnimBluePrint -> ElvisAnimBluePrint
+[2022.02.19-19.27.18:881][712]LogMetaData: Removing '/Game/AICharacter/ElvisAnimBluePrint.ElvisAnimBluePrint:AnimGraph.AnimGraphNode_Root_0' ref from Metadata '/Game/AICharacter/AIAnimBluePrint.PackageMetaData'
+[2022.02.19-19.27.18:881][712]LogMetaData: Removing '/Game/AICharacter/ElvisAnimBluePrint.SKEL_ElvisAnimBluePrint_C' ref from Metadata '/Game/AICharacter/AIAnimBluePrint.PackageMetaData'
+[2022.02.19-19.27.18:881][712]LogMetaData: Removing '/Game/AICharacter/ElvisAnimBluePrint.ElvisAnimBluePrint_C' ref from Metadata '/Game/AICharacter/AIAnimBluePrint.PackageMetaData'
+[2022.02.19-19.27.18:881][712]LogMetaData: Removing '/Game/AICharacter/ElvisAnimBluePrint.ElvisAnimBluePrint:EventGraph.K2Node_Event_0' ref from Metadata '/Game/AICharacter/AIAnimBluePrint.PackageMetaData'
+[2022.02.19-19.27.18:881][712]LogMetaData: Removing '/Game/AICharacter/ElvisAnimBluePrint.ElvisAnimBluePrint:EventGraph.K2Node_CallFunction_0' ref from Metadata '/Game/AICharacter/AIAnimBluePrint.PackageMetaData'
+[2022.02.19-19.27.18:881][712]LogMetaData: Removing '/Game/AICharacter/ElvisAnimBluePrint.ElvisAnimBluePrint:AnimGraph.AnimGraphNode_StateMachine_0.AIState.AnimStateEntryNode_0' ref from Metadata '/Game/AICharacter/AIAnimBluePrint.PackageMetaData'
+[2022.02.19-19.27.18:881][712]LogMetaData: Removing '/Game/AICharacter/ElvisAnimBluePrint.ElvisAnimBluePrint:AnimGraph.AnimGraphNode_StateMachine_0.AIState.AnimStateNode_0.Idle.AnimGraphNode_StateResult_0' ref from Metadata '/Game/AICharacter/AIAnimBluePrint.PackageMetaData'
+[2022.02.19-19.27.18:881][712]LogMetaData: Removing '/Game/AICharacter/ElvisAnimBluePrint.ElvisAnimBluePrint:AnimGraph.AnimGraphNode_StateMachine_0.AIState.AnimStateNode_1.Run.AnimGraphNode_StateResult_0' ref from Metadata '/Game/AICharacter/AIAnimBluePrint.PackageMetaData'
+[2022.02.19-19.27.18:881][712]LogMetaData: Removing '/Game/AICharacter/ElvisAnimBluePrint.ElvisAnimBluePrint:AnimGraph.AnimGraphNode_StateMachine_0.AIState.AnimStateTransitionNode_0.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/AICharacter/AIAnimBluePrint.PackageMetaData'
+[2022.02.19-19.27.18:881][712]LogMetaData: Removing '/Game/AICharacter/ElvisAnimBluePrint.ElvisAnimBluePrint:AnimGraph.AnimGraphNode_StateMachine_0.AIState.AnimStateTransitionNode_1.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/AICharacter/AIAnimBluePrint.PackageMetaData'
+[2022.02.19-19.27.18:881][712]LogMetaData: Removing '/Game/AICharacter/ElvisAnimBluePrint.SKEL_ElvisAnimBluePrint_C:BlueprintUpdateAnimation' ref from Metadata '/Game/AICharacter/AIAnimBluePrint.PackageMetaData'
+[2022.02.19-19.27.18:881][712]LogMetaData: Removing '/Game/AICharacter/ElvisAnimBluePrint.SKEL_ElvisAnimBluePrint_C:AnimGraph' ref from Metadata '/Game/AICharacter/AIAnimBluePrint.PackageMetaData'
+[2022.02.19-19.27.18:881][712]LogMetaData: Removing '/Game/AICharacter/ElvisAnimBluePrint.ElvisAnimBluePrint_C:BlueprintUpdateAnimation' ref from Metadata '/Game/AICharacter/AIAnimBluePrint.PackageMetaData'
+[2022.02.19-19.27.18:881][712]LogMetaData: Removing '/Game/AICharacter/ElvisAnimBluePrint.ElvisAnimBluePrint_C:AnimGraph' ref from Metadata '/Game/AICharacter/AIAnimBluePrint.PackageMetaData'
+[2022.02.19-19.27.18:910][712]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AICharacter/ElvisAnimBluePrint" FILE="../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/ElvisAnimBluePrint.uasset" SILENT=true
+[2022.02.19-19.27.18:931][712]LogSavePackage: Moving '../../../../../Unreal Engine/Projects/Task2/Saved/ElvisAnimBluePrint88DF9C144635763D44071C9E5F45E6DD.tmp' to '../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/ElvisAnimBluePrint.uasset'
+[2022.02.19-19.27.19:001][712]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2022.02.19-19.27.19:029][712]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.02.19-19.27.19:048][712]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.02.19-19.27.19:078][712]AssetCheck: New page: Asset Save: ElvisAnimBluePrint
+[2022.02.19-19.27.19:079][712]LogContentValidation: Display: Validating AnimBlueprint /Game/AICharacter/ElvisAnimBluePrint.ElvisAnimBluePrint
+[2022.02.19-19.27.22:314][ 65]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/AICharacter/ElvisAnimBluePrint.ElvisAnimBluePrint
+[2022.02.19-19.27.22:323][ 65]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.02.19-19.27.47:072][866]LogEditorTransaction: Undo Create Pin Link
+[2022.02.19-19.27.47:156][866]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.02.19-19.27.48:654][ 10]BlueprintLog: New page: Compile ElvisAnimBluePrint
+[2022.02.19-19.27.48:702][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2022.02.19-19.28.07:999][471]BlueprintLog: New page: Compile AICharacter
+[2022.02.19-19.28.08:047][471]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2022.02.19-19.28.16:049][174]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.02.19-19.28.30:561][522]BlueprintLog: New page: Compile AICharacter
+[2022.02.19-19.28.30:616][522]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2022.02.19-19.29.01:193][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2022.02.19-19.29.01:245][ 12]LogSavePackage: Moving '../../../../../Unreal Engine/Projects/Task2/Saved/ThirdPersonExampleMap_Auto3DB346C1B4A384E5055ADF6A5C5399C1D.tmp' to '../../../../../Unreal Engine/Projects/Task2/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3.umap'
+[2022.02.19-19.29.01:249][ 12]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.079
+[2022.02.19-19.29.01:249][ 12]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.079
+[2022.02.19-19.29.01:250][ 12]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AICharacter/ElvisAnimBluePrint] ([2] browsable assets)...
+[2022.02.19-19.29.01:259][ 12]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/AICharacter/ElvisAnimBluePrint.ElvisAnimBluePrint]
+[2022.02.19-19.29.01:268][ 12]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/AICharacter/ElvisAnimBluePrint.ElvisAnimBluePrint]
+[2022.02.19-19.29.01:268][ 12]OBJ SavePackage: Finished generating thumbnails for package [/Game/AICharacter/ElvisAnimBluePrint]
+[2022.02.19-19.29.01:289][ 12]LogSavePackage: Moving '../../../../../Unreal Engine/Projects/Task2/Saved/ElvisAnimBluePrint_Auto363E3C73E4611BA5398B2E9A44ABC3F9A.tmp' to '../../../../../Unreal Engine/Projects/Task2/Saved/Autosaves/Game/AICharacter/ElvisAnimBluePrint_Auto3.uasset'
+[2022.02.19-19.29.01:292][ 12]LogFileHelpers: Auto-saving content packages took 0.043
+[2022.02.19-19.33.22:375][887]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.02.19-19.33.22:409][887]LogContentBrowser: Creating deferred item: NewFolder
+[2022.02.19-19.33.25:976][311]LogContentBrowser: Attempting asset rename: NewFolder -> Elvis
+[2022.02.19-19.33.25:977][311]LogContentBrowser: End creating deferred item NewFolder
+[2022.02.19-19.33.37:095][593]LogMetaData: Removing '/Game/AICharacter/Elvis/ElvisAnimBluePrint.ElvisAnimBluePrint_C' ref from Metadata '/Game/AICharacter/ElvisAnimBluePrint.PackageMetaData'
+[2022.02.19-19.33.37:095][593]LogMetaData: Removing '/Game/AICharacter/Elvis/ElvisAnimBluePrint.SKEL_ElvisAnimBluePrint_C' ref from Metadata '/Game/AICharacter/ElvisAnimBluePrint.PackageMetaData'
+[2022.02.19-19.33.37:095][593]LogMetaData: Removing '/Game/AICharacter/Elvis/ElvisAnimBluePrint.ElvisAnimBluePrint:EventGraph.K2Node_Event_0' ref from Metadata '/Game/AICharacter/ElvisAnimBluePrint.PackageMetaData'
+[2022.02.19-19.33.37:095][593]LogMetaData: Removing '/Game/AICharacter/Elvis/ElvisAnimBluePrint.ElvisAnimBluePrint:EventGraph.K2Node_CallFunction_0' ref from Metadata '/Game/AICharacter/ElvisAnimBluePrint.PackageMetaData'
+[2022.02.19-19.33.37:096][593]LogMetaData: Removing '/Game/AICharacter/Elvis/ElvisAnimBluePrint.ElvisAnimBluePrint:AnimGraph.AnimGraphNode_Root_0' ref from Metadata '/Game/AICharacter/ElvisAnimBluePrint.PackageMetaData'
+[2022.02.19-19.33.37:096][593]LogMetaData: Removing '/Game/AICharacter/Elvis/ElvisAnimBluePrint.ElvisAnimBluePrint:AnimGraph.AnimGraphNode_StateMachine_0.AIState.AnimStateEntryNode_0' ref from Metadata '/Game/AICharacter/ElvisAnimBluePrint.PackageMetaData'
+[2022.02.19-19.33.37:096][593]LogMetaData: Removing '/Game/AICharacter/Elvis/ElvisAnimBluePrint.ElvisAnimBluePrint:AnimGraph.AnimGraphNode_StateMachine_0.AIState.AnimStateNode_0.Idle.AnimGraphNode_StateResult_0' ref from Metadata '/Game/AICharacter/ElvisAnimBluePrint.PackageMetaData'
+[2022.02.19-19.33.37:096][593]LogMetaData: Removing '/Game/AICharacter/Elvis/ElvisAnimBluePrint.ElvisAnimBluePrint:AnimGraph.AnimGraphNode_StateMachine_0.AIState.AnimStateNode_1.Run.AnimGraphNode_StateResult_0' ref from Metadata '/Game/AICharacter/ElvisAnimBluePrint.PackageMetaData'
+[2022.02.19-19.33.37:096][593]LogMetaData: Removing '/Game/AICharacter/Elvis/ElvisAnimBluePrint.ElvisAnimBluePrint:AnimGraph.AnimGraphNode_StateMachine_0.AIState.AnimStateTransitionNode_0.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/AICharacter/ElvisAnimBluePrint.PackageMetaData'
+[2022.02.19-19.33.37:096][593]LogMetaData: Removing '/Game/AICharacter/Elvis/ElvisAnimBluePrint.ElvisAnimBluePrint:AnimGraph.AnimGraphNode_StateMachine_0.AIState.AnimStateTransitionNode_1.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/AICharacter/ElvisAnimBluePrint.PackageMetaData'
+[2022.02.19-19.33.37:096][593]LogMetaData: Removing '/Game/AICharacter/Elvis/ElvisAnimBluePrint.SKEL_ElvisAnimBluePrint_C:BlueprintUpdateAnimation' ref from Metadata '/Game/AICharacter/ElvisAnimBluePrint.PackageMetaData'
+[2022.02.19-19.33.37:096][593]LogMetaData: Removing '/Game/AICharacter/Elvis/ElvisAnimBluePrint.SKEL_ElvisAnimBluePrint_C:AnimGraph' ref from Metadata '/Game/AICharacter/ElvisAnimBluePrint.PackageMetaData'
+[2022.02.19-19.33.37:096][593]LogMetaData: Removing '/Game/AICharacter/Elvis/ElvisAnimBluePrint.ElvisAnimBluePrint_C:BlueprintUpdateAnimation' ref from Metadata '/Game/AICharacter/ElvisAnimBluePrint.PackageMetaData'
+[2022.02.19-19.33.37:096][593]LogMetaData: Removing '/Game/AICharacter/Elvis/ElvisAnimBluePrint.ElvisAnimBluePrint_C:AnimGraph' ref from Metadata '/Game/AICharacter/ElvisAnimBluePrint.PackageMetaData'
+[2022.02.19-19.33.37:102][593]LogMetaData: Removing '/Game/AICharacter/Elvis/Idle_Anim_mixamo_com.Idle_Anim_mixamo_com' ref from Metadata '/Game/AICharacter/Idle_Anim_mixamo_com.PackageMetaData'
+[2022.02.19-19.33.37:104][593]LogMetaData: Removing '/Game/AICharacter/Elvis/Idle_Skeleton.Idle_Skeleton' ref from Metadata '/Game/AICharacter/Idle_Skeleton.PackageMetaData'
+[2022.02.19-19.33.37:106][593]LogMetaData: Removing '/Game/AICharacter/Elvis/Running_mixamo_com.Running_mixamo_com' ref from Metadata '/Game/AICharacter/Running_mixamo_com.PackageMetaData'
+[2022.02.19-19.33.37:165][593]LogSavePackage: Moving '../../../../../Unreal Engine/Projects/Task2/Saved/Character_Fat_Elvis_body_color0A435DB646E4D299C13864B37381AB76.tmp' to '../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/Elvis/Character_Fat_Elvis_body_color.uasset'
+[2022.02.19-19.33.37:177][593]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AICharacter/Elvis/Elvis_Brows_MAT" FILE="../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/Elvis/Elvis_Brows_MAT.uasset" SILENT=true
+[2022.02.19-19.33.37:183][593]LogSavePackage: Moving '../../../../../Unreal Engine/Projects/Task2/Saved/Elvis_Brows_MAT9C119EBF4106798FC311FD9E2E0CC4EE.tmp' to '../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/Elvis/Elvis_Brows_MAT.uasset'
+[2022.02.19-19.33.37:196][593]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AICharacter/Elvis/Elvis_Eyes_MAT" FILE="../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/Elvis/Elvis_Eyes_MAT.uasset" SILENT=true
+[2022.02.19-19.33.37:202][593]LogSavePackage: Moving '../../../../../Unreal Engine/Projects/Task2/Saved/Elvis_Eyes_MAT6959DD504431B3EBF3A835B5060E287D.tmp' to '../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/Elvis/Elvis_Eyes_MAT.uasset'
+[2022.02.19-19.33.37:209][593]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AICharacter/Elvis/Elvis_FaceAnimMap" FILE="../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/Elvis/Elvis_FaceAnimMap.uasset" SILENT=true
+[2022.02.19-19.33.37:251][593]LogSavePackage: Moving '../../../../../Unreal Engine/Projects/Task2/Saved/Elvis_FaceAnimMapC26131294AA4DB3C73C1578366847FB9.tmp' to '../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/Elvis/Elvis_FaceAnimMap.uasset'
+[2022.02.19-19.33.37:259][593]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AICharacter/Elvis/Elvis_FaceAnimMap_ncl1_1" FILE="../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/Elvis/Elvis_FaceAnimMap_ncl1_1.uasset" SILENT=true
+[2022.02.19-19.33.37:269][593]LogSavePackage: Moving '../../../../../Unreal Engine/Projects/Task2/Saved/Elvis_FaceAnimMap_ncl1_1A92A82114F5A019AD50EC1AD3B42C405.tmp' to '../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/Elvis/Elvis_FaceAnimMap_ncl1_1.uasset'
+[2022.02.19-19.33.37:277][593]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AICharacter/Elvis/Elvis_FaceAnimMap_ncl1_2" FILE="../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/Elvis/Elvis_FaceAnimMap_ncl1_2.uasset" SILENT=true
+[2022.02.19-19.33.37:288][593]LogSavePackage: Moving '../../../../../Unreal Engine/Projects/Task2/Saved/Elvis_FaceAnimMap_ncl1_209FE5F0C447BB61B1253F4B9D5BC6DCD.tmp' to '../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/Elvis/Elvis_FaceAnimMap_ncl1_2.uasset'
+[2022.02.19-19.33.37:302][593]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AICharacter/Elvis/Elvis_Mouth_MAT" FILE="../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/Elvis/Elvis_Mouth_MAT.uasset" SILENT=true
+[2022.02.19-19.33.37:308][593]LogSavePackage: Moving '../../../../../Unreal Engine/Projects/Task2/Saved/Elvis_Mouth_MATEF11208947CB69D35F8A5CA94A72CAD9.tmp' to '../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/Elvis/Elvis_Mouth_MAT.uasset'
+[2022.02.19-19.33.37:321][593]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AICharacter/Elvis/ElvisAnimBluePrint" FILE="../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/Elvis/ElvisAnimBluePrint.uasset" SILENT=true
+[2022.02.19-19.33.37:347][593]LogSavePackage: Moving '../../../../../Unreal Engine/Projects/Task2/Saved/ElvisAnimBluePrint0ECAE910465DD845392D64B24D7E8A48.tmp' to '../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/Elvis/ElvisAnimBluePrint.uasset'
+[2022.02.19-19.33.37:360][593]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AICharacter/Elvis/ElvisMesh" FILE="../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/Elvis/ElvisMesh.uasset" SILENT=true
+[2022.02.19-19.33.37:395][593]LogSavePackage: Moving '../../../../../Unreal Engine/Projects/Task2/Saved/ElvisMeshC9AE91D84A9E9F73B3DD478E2FB1C852.tmp' to '../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/Elvis/ElvisMesh.uasset'
+[2022.02.19-19.33.37:403][593]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AICharacter/Elvis/FatElvis_diffuse" FILE="../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/Elvis/FatElvis_diffuse.uasset" SILENT=true
+[2022.02.19-19.33.37:451][593]LogSavePackage: Moving '../../../../../Unreal Engine/Projects/Task2/Saved/FatElvis_diffuse638539394B20E83AFFB9AD8975C778C1.tmp' to '../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/Elvis/FatElvis_diffuse.uasset'
+[2022.02.19-19.33.37:460][593]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AICharacter/Elvis/FatElvis_normal" FILE="../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/Elvis/FatElvis_normal.uasset" SILENT=true
+[2022.02.19-19.33.37:496][593]LogSavePackage: Moving '../../../../../Unreal Engine/Projects/Task2/Saved/FatElvis_normal7F61ECAB4B328B269F9A13965C0471B5.tmp' to '../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/Elvis/FatElvis_normal.uasset'
+[2022.02.19-19.33.37:509][593]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AICharacter/Elvis/Idle_Anim_mixamo_com" FILE="../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/Elvis/Idle_Anim_mixamo_com.uasset" SILENT=true
+[2022.02.19-19.33.37:547][593]LogSavePackage: Moving '../../../../../Unreal Engine/Projects/Task2/Saved/Idle_Anim_mixamo_com41C50B594BACF2E3E8174CA091EC92AF.tmp' to '../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/Elvis/Idle_Anim_mixamo_com.uasset'
+[2022.02.19-19.33.37:573][593]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AICharacter/Elvis/Idle_PhysicsAsset" FILE="../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/Elvis/Idle_PhysicsAsset.uasset" SILENT=true
+[2022.02.19-19.33.37:603][593]LogSavePackage: Moving '../../../../../Unreal Engine/Projects/Task2/Saved/Idle_PhysicsAssetDA967DFB433FB0AC98FE5F98B8F02BE0.tmp' to '../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/Elvis/Idle_PhysicsAsset.uasset'
+[2022.02.19-19.33.37:610][593]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AICharacter/Elvis/Idle_Skeleton" FILE="../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/Elvis/Idle_Skeleton.uasset" SILENT=true
+[2022.02.19-19.33.37:617][593]LogSavePackage: Moving '../../../../../Unreal Engine/Projects/Task2/Saved/Idle_Skeleton08C22AB648EA36DE05253CA8FF560067.tmp' to '../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/Elvis/Idle_Skeleton.uasset'
+[2022.02.19-19.33.37:644][593]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AICharacter/Elvis/Running_mixamo_com" FILE="../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/Elvis/Running_mixamo_com.uasset" SILENT=true
+[2022.02.19-19.33.37:672][593]LogSavePackage: Moving '../../../../../Unreal Engine/Projects/Task2/Saved/Running_mixamo_com887FD9B04E9E51637314A88C11E7DEC2.tmp' to '../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/Elvis/Running_mixamo_com.uasset'
+[2022.02.19-19.33.37:935][593]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2022.02.19-19.33.37:959][593]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.02.19-19.33.37:981][593]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.02.19-19.33.38:002][593]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.02.19-19.33.38:025][593]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.02.19-19.33.38:047][593]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.02.19-19.33.38:069][593]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.02.19-19.33.38:090][593]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.02.19-19.33.38:113][593]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.02.19-19.33.38:136][593]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.02.19-19.33.38:157][593]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.02.19-19.33.38:179][593]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.02.19-19.33.38:201][593]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.02.19-19.33.38:221][593]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.02.19-19.33.38:242][593]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.02.19-19.33.38:270][593]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2022.02.19-19.33.38:291][593]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.02.19-19.33.38:361][593]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.19-19.33.38:361][593]LogContentValidation: Display: Validating AnimBlueprint /Game/AICharacter/Elvis/ElvisAnimBluePrint.ElvisAnimBluePrint
+[2022.02.19-19.33.38:361][593]LogContentValidation: Display: Validating SkeletalMesh /Game/AICharacter/Elvis/ElvisMesh.ElvisMesh
+[2022.02.19-19.33.38:361][593]LogContentValidation: Display: Validating Material /Game/AICharacter/Elvis/Character_Fat_Elvis_body_color.Character_Fat_Elvis_body_color
+[2022.02.19-19.33.38:361][593]LogContentValidation: Display: Validating Texture2D /Game/AICharacter/Elvis/FatElvis_diffuse.FatElvis_diffuse
+[2022.02.19-19.33.38:361][593]LogContentValidation: Display: Validating Texture2D /Game/AICharacter/Elvis/FatElvis_normal.FatElvis_normal
+[2022.02.19-19.33.38:361][593]LogContentValidation: Display: Validating Material /Game/AICharacter/Elvis/Elvis_Mouth_MAT.Elvis_Mouth_MAT
+[2022.02.19-19.33.38:361][593]LogContentValidation: Display: Validating Texture2D /Game/AICharacter/Elvis/Elvis_FaceAnimMap.Elvis_FaceAnimMap
+[2022.02.19-19.33.38:361][593]LogContentValidation: Display: Validating Material /Game/AICharacter/Elvis/Elvis_Brows_MAT.Elvis_Brows_MAT
+[2022.02.19-19.33.38:361][593]LogContentValidation: Display: Validating Texture2D /Game/AICharacter/Elvis/Elvis_FaceAnimMap_ncl1_1.Elvis_FaceAnimMap_ncl1_1
+[2022.02.19-19.33.38:361][593]LogContentValidation: Display: Validating Material /Game/AICharacter/Elvis/Elvis_Eyes_MAT.Elvis_Eyes_MAT
+[2022.02.19-19.33.38:361][593]LogContentValidation: Display: Validating Texture2D /Game/AICharacter/Elvis/Elvis_FaceAnimMap_ncl1_2.Elvis_FaceAnimMap_ncl1_2
+[2022.02.19-19.33.38:361][593]LogContentValidation: Display: Validating Skeleton /Game/AICharacter/Elvis/Idle_Skeleton.Idle_Skeleton
+[2022.02.19-19.33.38:361][593]LogContentValidation: Display: Validating PhysicsAsset /Game/AICharacter/Elvis/Idle_PhysicsAsset.Idle_PhysicsAsset
+[2022.02.19-19.33.38:361][593]LogContentValidation: Display: Validating AnimSequence /Game/AICharacter/Elvis/Idle_Anim_mixamo_com.Idle_Anim_mixamo_com
+[2022.02.19-19.33.38:362][593]LogContentValidation: Display: Validating AnimSequence /Game/AICharacter/Elvis/Running_mixamo_com.Running_mixamo_com
+[2022.02.19-19.33.56:096][677]LogContentBrowser: Attempting asset rename: Idle_Skeleton -> Elvis_Skeleton
+[2022.02.19-19.33.56:113][677]LogMetaData: Removing '/Game/AICharacter/Elvis/Elvis_Skeleton.Elvis_Skeleton' ref from Metadata '/Game/AICharacter/Elvis/Idle_Skeleton.PackageMetaData'
+[2022.02.19-19.33.56:134][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AICharacter/Elvis/Elvis_Skeleton" FILE="../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/Elvis/Elvis_Skeleton.uasset" SILENT=true
+[2022.02.19-19.33.56:137][677]LogSavePackage: Moving '../../../../../Unreal Engine/Projects/Task2/Saved/Elvis_Skeleton2B45C37D4A782027CC12CCA8566F6771.tmp' to '../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/Elvis/Elvis_Skeleton.uasset'
+[2022.02.19-19.33.56:206][677]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2022.02.19-19.33.56:235][677]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.02.19-19.33.56:256][677]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.02.19-19.33.56:273][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AICharacter/Elvis/Idle_Anim_mixamo_com" FILE="../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/Elvis/Idle_Anim_mixamo_com.uasset" SILENT=true
+[2022.02.19-19.33.56:276][677]LogSavePackage: Moving '../../../../../Unreal Engine/Projects/Task2/Saved/Idle_Anim_mixamo_com4FBD889D4A9E35B3331904AC9721D79B.tmp' to '../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/Elvis/Idle_Anim_mixamo_com.uasset'
+[2022.02.19-19.33.56:288][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AICharacter/Elvis/ElvisAnimBluePrint" FILE="../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/Elvis/ElvisAnimBluePrint.uasset" SILENT=true
+[2022.02.19-19.33.56:309][677]LogSavePackage: Moving '../../../../../Unreal Engine/Projects/Task2/Saved/ElvisAnimBluePrint9643B09140457C0B3F3F63B79D998139.tmp' to '../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/Elvis/ElvisAnimBluePrint.uasset'
+[2022.02.19-19.33.56:313][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AICharacter/Elvis/ElvisMesh" FILE="../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/Elvis/ElvisMesh.uasset" SILENT=true
+[2022.02.19-19.33.56:342][677]LogSavePackage: Moving '../../../../../Unreal Engine/Projects/Task2/Saved/ElvisMesh902141B64C7625BD12E788B896DFA5F7.tmp' to '../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/Elvis/ElvisMesh.uasset'
+[2022.02.19-19.33.56:346][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AICharacter/Elvis/Running_mixamo_com" FILE="../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/Elvis/Running_mixamo_com.uasset" SILENT=true
+[2022.02.19-19.33.56:356][677]LogSavePackage: Moving '../../../../../Unreal Engine/Projects/Task2/Saved/Running_mixamo_comD16AABB145D257F9E869FCA44B6DDBF6.tmp' to '../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/Elvis/Running_mixamo_com.uasset'
+[2022.02.19-19.33.56:412][677]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.19-19.33.56:412][677]LogContentValidation: Display: Validating AnimBlueprint /Game/AICharacter/Elvis/ElvisAnimBluePrint.ElvisAnimBluePrint
+[2022.02.19-19.33.56:412][677]LogContentValidation: Display: Validating SkeletalMesh /Game/AICharacter/Elvis/ElvisMesh.ElvisMesh
+[2022.02.19-19.33.56:412][677]LogContentValidation: Display: Validating Skeleton /Game/AICharacter/Elvis/Elvis_Skeleton.Elvis_Skeleton
+[2022.02.19-19.33.56:412][677]LogContentValidation: Display: Validating AnimSequence /Game/AICharacter/Elvis/Idle_Anim_mixamo_com.Idle_Anim_mixamo_com
+[2022.02.19-19.33.56:412][677]LogContentValidation: Display: Validating AnimSequence /Game/AICharacter/Elvis/Running_mixamo_com.Running_mixamo_com
+[2022.02.19-19.37.12:207][270]LogContentBrowser: Attempting asset rename: Running_mixamo_com -> Running
+[2022.02.19-19.37.12:221][270]LogMetaData: Removing '/Game/AICharacter/Elvis/Running.Running' ref from Metadata '/Game/AICharacter/Elvis/Running_mixamo_com.PackageMetaData'
+[2022.02.19-19.37.12:246][270]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AICharacter/Elvis/Running" FILE="../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/Elvis/Running.uasset" SILENT=true
+[2022.02.19-19.37.12:261][270]LogSavePackage: Moving '../../../../../Unreal Engine/Projects/Task2/Saved/RunningA7B029E2456250947D7A588C0C6A34D9.tmp' to '../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/Elvis/Running.uasset'
+[2022.02.19-19.37.12:336][270]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2022.02.19-19.37.12:365][270]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.02.19-19.37.12:387][270]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.02.19-19.37.12:412][270]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AICharacter/Elvis/ElvisAnimBluePrint" FILE="../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/Elvis/ElvisAnimBluePrint.uasset" SILENT=true
+[2022.02.19-19.37.12:433][270]LogSavePackage: Moving '../../../../../Unreal Engine/Projects/Task2/Saved/ElvisAnimBluePrint29F429C54629DB2CDA8B37BD907764A6.tmp' to '../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/Elvis/ElvisAnimBluePrint.uasset'
+[2022.02.19-19.37.12:489][270]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.19-19.37.12:489][270]LogContentValidation: Display: Validating AnimBlueprint /Game/AICharacter/Elvis/ElvisAnimBluePrint.ElvisAnimBluePrint
+[2022.02.19-19.37.12:489][270]LogContentValidation: Display: Validating AnimSequence /Game/AICharacter/Elvis/Running.Running
+[2022.02.19-19.37.16:610][745]LogContentBrowser: Attempting asset rename: Idle_Anim_mixamo_com -> Idle
+[2022.02.19-19.37.16:625][745]LogMetaData: Removing '/Game/AICharacter/Elvis/Idle.Idle' ref from Metadata '/Game/AICharacter/Elvis/Idle_Anim_mixamo_com.PackageMetaData'
+[2022.02.19-19.37.16:648][745]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AICharacter/Elvis/Idle" FILE="../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/Elvis/Idle.uasset" SILENT=true
+[2022.02.19-19.37.16:656][745]LogSavePackage: Moving '../../../../../Unreal Engine/Projects/Task2/Saved/IdleF423443149940073E11BB49C70045996.tmp' to '../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/Elvis/Idle.uasset'
+[2022.02.19-19.37.16:724][745]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2022.02.19-19.37.16:752][745]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.02.19-19.37.16:773][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.02.19-19.37.16:795][745]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AICharacter/Elvis/ElvisAnimBluePrint" FILE="../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/Elvis/ElvisAnimBluePrint.uasset" SILENT=true
+[2022.02.19-19.37.16:816][745]LogSavePackage: Moving '../../../../../Unreal Engine/Projects/Task2/Saved/ElvisAnimBluePrintB4D6D46E4C6D15F53A27B492E25D946B.tmp' to '../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/Elvis/ElvisAnimBluePrint.uasset'
+[2022.02.19-19.37.16:870][745]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.19-19.37.16:870][745]LogContentValidation: Display: Validating AnimBlueprint /Game/AICharacter/Elvis/ElvisAnimBluePrint.ElvisAnimBluePrint
+[2022.02.19-19.37.16:870][745]LogContentValidation: Display: Validating AnimSequence /Game/AICharacter/Elvis/Idle.Idle
+[2022.02.19-19.39.01:706][572]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2022.02.19-19.39.01:755][572]LogSavePackage: Moving '../../../../../Unreal Engine/Projects/Task2/Saved/ThirdPersonExampleMap_Auto427A1232F422FCFD5C07A9E8171425A32.tmp' to '../../../../../Unreal Engine/Projects/Task2/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto4.umap'
+[2022.02.19-19.39.01:761][572]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.098
+[2022.02.19-19.39.01:761][572]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.098
+[2022.02.19-19.44.42:293][114]LogSlate: Window 'Pick Skeleton' being destroyed
+[2022.02.19-19.44.42:300][114]LogContentBrowser: Deferred new asset file creation: NewBlendSpace1D
+[2022.02.19-19.44.42:319][114]LogContentBrowser: Creating deferred item: NewBlendSpace1D
+[2022.02.19-19.44.54:381][551]LogContentBrowser: Attempting asset rename: NewBlendSpace1D -> ElvisBlendSpace1D
+[2022.02.19-19.44.54:383][551]LogContentBrowser: End creating deferred item NewBlendSpace1D
+[2022.02.19-19.44.55:945][719]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/AICharacter/Elvis/ElvisBlendSpace1D.ElvisBlendSpace1D
+[2022.02.19-19.44.55:950][719]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.02.19-19.44.56:638][719]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.02.19-19.46.35:893][  4]LogSlate: Took 0.015857 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.02.19-19.47.21:015][467]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AICharacter/Elvis/ElvisBlendSpace1D" FILE="../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/Elvis/ElvisBlendSpace1D.uasset" SILENT=true
+[2022.02.19-19.47.21:022][467]LogSavePackage: Moving '../../../../../Unreal Engine/Projects/Task2/Saved/ElvisBlendSpace1D4EF256FE491E6E9A29012E8695E76565.tmp' to '../../../../../Unreal Engine/Projects/Task2/Content/AICharacter/Elvis/ElvisBlendSpace1D.uasset'
+[2022.02.19-19.47.21:036][467]AssetCheck: New page: Asset Save: ElvisBlendSpace1D
+[2022.02.19-19.47.21:036][467]LogContentValidation: Display: Validating BlendSpace1D /Game/AICharacter/Elvis/ElvisBlendSpace1D.ElvisBlendSpace1D
+[2022.02.19-19.49.10:007][864]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2022.02.19-19.49.10:010][864]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.062
+[2022.02.19-19.49.10:011][864]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AICharacter/Elvis/ElvisAnimBluePrint] ([1] browsable assets)...
+[2022.02.19-19.49.10:027][864]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/AICharacter/Elvis/ElvisAnimBluePrint.ElvisAnimBluePrint]
+[2022.02.19-19.49.10:028][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/AICharacter/Elvis/ElvisAnimBluePrint]
+[2022.02.19-19.49.10:051][864]LogSavePackage: Moving '../../../../../Unreal Engine/Projects/Task2/Saved/ElvisAnimBluePrint_Auto55CCE612E4028D5E2F64BF9B38E90CC93.tmp' to '../../../../../Unreal Engine/Projects/Task2/Saved/Autosaves/Game/AICharacter/Elvis/ElvisAnimBluePrint_Auto5.uasset'
+[2022.02.19-19.49.10:055][864]LogFileHelpers: Auto-saving content packages took 0.046
+[2022.02.19-19.49.14:956][336]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.02.19-19.49.14:957][336]LogWindows: Windows GetLastError: Операция успешно завершена. (0)
+[2022.02.19-19.49.34:482][336]LogWindows: Error: === Critical error: ===
+[2022.02.19-19.49.34:482][336]LogWindows: Error: 
+[2022.02.19-19.49.34:482][336]LogWindows: Error: Assertion failed: Result [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/Kismet2/BlueprintEditorUtils.cpp] [Line: 2175] 
+[2022.02.19-19.49.34:482][336]LogWindows: Error: FBlueprintEditorUtils::FindBlueprintForNodeChecked(/Game/AICharacter/Elvis/ElvisAnimBluePrint.AIState:AnimStateTransitionNode_0) failed to find a Blueprint.
+[2022.02.19-19.49.34:482][336]LogWindows: Error: 
+[2022.02.19-19.49.34:482][336]LogWindows: Error: 
+[2022.02.19-19.49.34:482][336]LogWindows: Error: [Callstack] 0x00007ffad5d34f69 KERNELBASE.dll!UnknownFunction []
+[2022.02.19-19.49.34:482][336]LogWindows: Error: [Callstack] 0x00007ffa6e9ed066 UE4Editor-Core.dll!UnknownFunction []
+[2022.02.19-19.49.34:482][336]LogWindows: Error: [Callstack] 0x00007ffa6e9f07a8 UE4Editor-Core.dll!UnknownFunction []
+[2022.02.19-19.49.34:483][336]LogWindows: Error: [Callstack] 0x00007ffa6e6fe8cd UE4Editor-Core.dll!UnknownFunction []
+[2022.02.19-19.49.34:483][336]LogWindows: Error: [Callstack] 0x00007ffa6e695575 UE4Editor-Core.dll!UnknownFunction []
+[2022.02.19-19.49.34:483][336]LogWindows: Error: [Callstack] 0x00007ffa6e697620 UE4Editor-Core.dll!UnknownFunction []
+[2022.02.19-19.49.34:483][336]LogWindows: Error: [Callstack] 0x00007ffa661fa324 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.02.19-19.49.34:483][336]LogWindows: Error: [Callstack] 0x00007ffa65961fc3 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.02.19-19.49.34:483][336]LogWindows: Error: [Callstack] 0x00007ffa26462862 UE4Editor-AnimationBlueprintEditor.dll!UnknownFunction []
+[2022.02.19-19.49.34:483][336]LogWindows: Error: [Callstack] 0x00007ffa264520b2 UE4Editor-AnimationBlueprintEditor.dll!UnknownFunction []
+[2022.02.19-19.49.34:483][336]LogWindows: Error: [Callstack] 0x00007ffa2644621d UE4Editor-AnimationBlueprintEditor.dll!UnknownFunction []
+[2022.02.19-19.49.34:483][336]LogWindows: Error: [Callstack] 0x00007ffa6bca683f UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.02.19-19.49.34:483][336]LogWindows: Error: [Callstack] 0x00007ffa6bcb4343 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.02.19-19.49.34:483][336]LogWindows: Error: [Callstack] 0x00007ffa6bcb6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.02.19-19.49.34:483][336]LogWindows: Error: [Callstack] 0x00007ffa6bcb4a55 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.02.19-19.49.34:483][336]LogWindows: Error: [Callstack] 0x00007ffa6bcb6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.02.19-19.49.34:483][336]LogWindows: Error: [Callstack] 0x00007ffa2645c00a UE4Editor-AnimationBlueprintEditor.dll!UnknownFunction []
+[2022.02.19-19.49.34:483][336]LogWindows: Error: [Callstack] 0x00007ffa6bcb6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.02.19-19.49.34:483][336]LogWindows: Error: [Callstack] 0x00007ffa5b502a70 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2022.02.19-19.49.34:483][336]LogWindows: Error: [Callstack] 0x00007ffa6bcb6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.02.19-19.49.34:483][336]LogWindows: Error: [Callstack] 0x00007ffa6bcb4a55 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.02.19-19.49.34:483][336]LogWindows: Error: [Callstack] 0x00007ffa6bcb6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.02.19-19.49.34:483][336]LogWindows: Error: [Callstack] 0x00007ffa6bcb3dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.02.19-19.49.34:483][336]LogWindows: Error: [Callstack] 0x00007ffa6bcb6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.02.19-19.49.34:483][336]LogWindows: Error: [Callstack] 0x00007ffa6d41fc19 UE4Editor-Slate.dll!UnknownFunction []
+[2022.02.19-19.49.34:483][336]LogWindows: Error: [Callstack] 0x00007ffa6bcb6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.02.19-19.49.34:483][336]LogWindows: Error: [Callstack] 0x00007ffa6bcb3dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.02.19-19.49.34:483][336]LogWindows: Error: [Callstack] 0x00007ffa6bcb6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.02.19-19.49.34:483][336]LogWindows: Error: [Callstack] 0x00007ffa6bcb3dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.02.19-19.49.34:483][336]LogWindows: Error: [Callstack] 0x00007ffa6d41faa4 UE4Editor-Slate.dll!UnknownFunction []
+[2022.02.19-19.49.34:483][336]LogWindows: Error: [Callstack] 0x00007ffa6bcb6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.02.19-19.49.34:483][336]LogWindows: Error: [Callstack] 0x00007ffa6bcb4a55 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.02.19-19.49.34:483][336]LogWindows: Error: [Callstack] 0x00007ffa6bcb6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.02.19-19.49.34:483][336]LogWindows: Error: [Callstack] 0x00007ffa6bcb7748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.02.19-19.49.34:483][336]LogWindows: Error: [Callstack] 0x00007ffa6bcb4beb UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.02.19-19.49.34:483][336]LogWindows: Error: [Callstack] 0x00007ffa6bcb6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.02.19-19.49.34:483][336]LogWindows: Error: [Callstack] 0x00007ffa6bcb3dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.02.19-19.49.34:483][336]LogWindows: Error: [Callstack] 0x00007ffa6bcb6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.02.19-19.49.34:483][336]LogWindows: Error: [Callstack] 0x00007ffa6bcb7748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.02.19-19.49.34:483][336]LogWindows: Error: [Callstack] 0x00007ffa6d421ec0 UE4Editor-Slate.dll!UnknownFunction []
+[2022.02.19-19.49.34:483][336]LogWindows: Error: [Callstack] 0x00007ffa6bcb6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.02.19-19.49.34:483][336]LogWindows: Error: [Callstack] 0x00007ffa6bcb3dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.02.19-19.49.34:483][336]LogWindows: Error: [Callstack] 0x00007ffa6bcb6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.02.19-19.49.34:483][336]LogWindows: Error: [Callstack] 0x00007ffa6bcb7748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.02.19-19.49.34:483][336]LogWindows: Error: [Callstack] 0x00007ffa6d421ec0 UE4Editor-Slate.dll!UnknownFunction []
+[2022.02.19-19.49.34:483][336]LogWindows: Error: [Callstack] 0x00007ffa6bcb6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.02.19-19.49.34:483][336]LogWindows: Error: [Callstack] 0x00007ffa6bcb3dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.02.19-19.49.34:483][336]LogWindows: Error: [Callstack] 0x00007ffa6bcb6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.02.19-19.49.34:483][336]LogWindows: Error: [Callstack] 0x00007ffa6bcb7748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.02.19-19.49.34:483][336]LogWindows: Error: [Callstack] 0x00007ffa6d421ec0 UE4Editor-Slate.dll!UnknownFunction []
+[2022.02.19-19.49.34:483][336]LogWindows: Error: [Callstack] 0x00007ffa6bcb6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.02.19-19.49.34:483][336]LogWindows: Error: [Callstack] 0x00007ffa6bcb4a55 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.02.19-19.49.34:483][336]LogWindows: Error: [Callstack] 0x00007ffa6bcb6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.02.19-19.49.34:483][336]LogWindows: Error: [Callstack] 0x00007ffa6bcb3dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.02.19-19.49.34:483][336]LogWindows: Error: [Callstack] 0x00007ffa6bcb6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.02.19-19.49.34:483][336]LogWindows: Error: [Callstack] 0x00007ffa6bcb7748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.02.19-19.49.34:483][336]LogWindows: Error: [Callstack] 0x00007ffa6bcb4beb UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.02.19-19.49.34:483][336]LogWindows: Error: [Callstack] 0x00007ffa6bcb6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.02.19-19.49.34:483][336]LogWindows: Error: [Callstack] 0x00007ffa6bcb3dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.02.19-19.49.34:483][336]LogWindows: Error: [Callstack] 0x00007ffa6bcb6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.02.19-19.49.34:483][336]LogWindows: Error: [Callstack] 0x00007ffa6bcb3dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.02.19-19.49.34:483][336]LogWindows: Error: [Callstack] 0x00007ffa6d41faa4 UE4Editor-Slate.dll!UnknownFunction []
+[2022.02.19-19.49.34:483][336]LogWindows: Error: [Callstack] 0x00007ffa6bcb6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.02.19-19.49.34:483][336]LogWindows: Error: [Callstack] 0x00007ffa6bcb4a55 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.02.19-19.49.34:483][336]LogWindows: Error: [Callstack] 0x00007ffa6bcb6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.02.19-19.49.34:483][336]LogWindows: Error: [Callstack] 0x00007ffa6bcb7748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.02.19-19.49.34:483][336]LogWindows: Error: [Callstack] 0x00007ffa6bcb4beb UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.02.19-19.49.34:483][336]LogWindows: Error: [Callstack] 0x00007ffa6bcb6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.02.19-19.49.34:484][336]LogWindows: Error: [Callstack] 0x00007ffa6bcb3dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.02.19-19.49.34:484][336]LogWindows: Error: [Callstack] 0x00007ffa6bcb6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.02.19-19.49.34:484][336]LogWindows: Error: [Callstack] 0x00007ffa6bcb7748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.02.19-19.49.34:484][336]LogWindows: Error: [Callstack] 0x00007ffa6d421ec0 UE4Editor-Slate.dll!UnknownFunction []
+[2022.02.19-19.49.34:484][336]LogWindows: Error: [Callstack] 0x00007ffa6bcb6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.02.19-19.49.34:484][336]LogWindows: Error: [Callstack] 0x00007ffa6bcb4a55 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.02.19-19.49.34:484][336]LogWindows: Error: [Callstack] 0x00007ffa6bcb6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.02.19-19.49.34:484][336]LogWindows: Error: [Callstack] 0x00007ffa6bcb3dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.02.19-19.49.34:484][336]LogWindows: Error: [Callstack] 0x00007ffa6bcb6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.02.19-19.49.34:484][336]LogWindows: Error: [Callstack] 0x00007ffa6bcb7748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.02.19-19.49.34:484][336]LogWindows: Error: [Callstack] 0x00007ffa6bcb4beb UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.02.19-19.49.34:484][336]LogWindows: Error: [Callstack] 0x00007ffa6bcb6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.02.19-19.49.34:484][336]LogWindows: Error: [Callstack] 0x00007ffa6bcb7748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.02.19-19.49.34:484][336]LogWindows: Error: [Callstack] 0x00007ffa6bcb4beb UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.02.19-19.49.34:484][336]LogWindows: Error: [Callstack] 0x00007ffa6bcb6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.02.19-19.49.34:484][336]LogWindows: Error: [Callstack] 0x00007ffa6bcb4a55 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.02.19-19.49.34:484][336]LogWindows: Error: [Callstack] 0x00007ffa6bcb6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.02.19-19.49.34:484][336]LogWindows: Error: [Callstack] 0x00007ffa6bcb3dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.02.19-19.49.34:484][336]LogWindows: Error: [Callstack] 0x00007ffa6bcb6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.02.19-19.49.34:484][336]LogWindows: Error: [Callstack] 0x00007ffa6bcb7857 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.02.19-19.49.34:484][336]LogWindows: Error: [Callstack] 0x00007ffa6bbe252a UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.02.19-19.49.34:484][336]LogWindows: Error: [Callstack] 0x00007ffa6bcb7aec UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.02.19-19.49.34:484][336]LogWindows: Error: [Callstack] 0x00007ffa6d1e977e UE4Editor-Slate.dll!UnknownFunction []
+[2022.02.19-19.49.34:484][336]LogWindows: Error: [Callstack] 0x00007ffa6d21b93e UE4Editor-Slate.dll!UnknownFunction []
+[2022.02.19-19.49.34:484][336]LogWindows: Error: [Callstack] 0x00007ffa6d1ea0d7 UE4Editor-Slate.dll!UnknownFunction []
+[2022.02.19-19.49.34:484][336]LogWindows: Error: [Callstack] 0x00007ffa6d241e57 UE4Editor-Slate.dll!UnknownFunction []
+[2022.02.19-19.49.34:484][336]LogWindows: Error: [Callstack] 0x00007ffa6d241659 UE4Editor-Slate.dll!UnknownFunction []
+[2022.02.19-19.49.34:484][336]LogWindows: Error: [Callstack] 0x00007ff60eedae49 UE4Editor.exe!UnknownFunction []
+[2022.02.19-19.49.34:484][336]LogWindows: Error: [Callstack] 0x00007ff60eef117c UE4Editor.exe!UnknownFunction []
+[2022.02.19-19.49.34:484][336]LogWindows: Error: [Callstack] 0x00007ff60eef125a UE4Editor.exe!UnknownFunction []
+[2022.02.19-19.49.34:484][336]LogWindows: Error: [Callstack] 0x00007ff60ef052bd UE4Editor.exe!UnknownFunction []
+[2022.02.19-19.49.34:484][336]LogWindows: Error: [Callstack] 0x00007ff60ef07fea UE4Editor.exe!UnknownFunction []
+[2022.02.19-19.49.34:484][336]LogWindows: Error: 
+[2022.02.19-19.49.34:488][336]LogExit: Executing StaticShutdownAfterError
+[2022.02.19-19.49.34:492][336]LogWindows: FPlatformMisc::RequestExit(1)
+[2022.02.19-19.49.34:492][336]LogCore: Engine exit requested (reason: Win RequestExit)
+[2022.02.19-19.49.34:531][336]Log file closed, 02/19/22 22:49:34
